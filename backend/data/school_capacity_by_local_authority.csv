@@ -1,0 +1,314 @@
+la_name,region_name,school_phase,nc_year_admission,admission_numbers,total_offers,used_capacity_percent
+Knowsley,North West,Secondary,7,14600,19042.0,130.42465753424656
+Lewisham,Inner London,Secondary,7,27147,31350.0,115.48237374295502
+Merton,Outer London,Secondary,7,20157,23199.0,115.0915314778985
+Reading,South East,Secondary,7,17435,19713.0,113.06567249784916
+Ealing,Outer London,Secondary,7,39324,43078.0,109.54633302817618
+Greenwich,Outer London,Secondary,7,31400,33997.0,108.27070063694268
+Harrow,Outer London,Secondary,7,28604,30865.0,107.90448888267375
+Middlesbrough,North East,Secondary,7,18805,20083.0,106.79606487636266
+Stoke-on-Trent,West Midlands,Secondary,7,32568,34441.0,105.75104396954065
+Leicester,East Midlands,Secondary,7,46234,48826.0,105.60626378855389
+"Bristol, City of",South West,Secondary,7,46023,48578.0,105.55157204006693
+Croydon,Outer London,Secondary,7,46488,48718.0,104.79693684391671
+Thurrock,East of England,Secondary,7,24169,25225.0,104.36923331540402
+Brent,Outer London,Secondary,7,37275,38505.0,103.29979879275655
+Enfield,Outer London,Secondary,7,45965,47375.0,103.06755139780267
+Birmingham,West Midlands,Secondary,7,157052,160743.0,102.35017701143569
+Salford,North West,Secondary,7,28128,28761.0,102.25042662116041
+Sheffield,Yorkshire and The Humber,Secondary,7,65693,67097.0,102.13721401062519
+Wandsworth,Inner London,Secondary,7,24044,24546.0,102.08783896190319
+Swindon,South West,Secondary,7,29072,29571.0,101.7164281783159
+Hounslow,Outer London,Secondary,7,33666,34224.0,101.65745856353593
+Bradford,Yorkshire and The Humber,Secondary,7,82202,83562.0,101.6544609620204
+Blackpool,North West,Secondary,7,16108,16371.0,101.63272907871865
+Nottingham,East Midlands,Secondary,7,36311,36835.0,101.44308887114097
+"Kingston upon Hull, City of",Yorkshire and The Humber,Secondary,7,33630,33885.0,100.75825156110616
+Sutton,Outer London,Primary,R,28207,28355.0,100.52469245222817
+Stockport,North West,Secondary,7,35794,35411.0,98.92998826618987
+Manchester,North West,Secondary,7,70119,69336.0,98.88332691567193
+Kirklees,Yorkshire and The Humber,Secondary,7,54495,53605.0,98.3668226442793
+Surrey,South East,Secondary,7,133011,130826.0,98.35727872130876
+Milton Keynes,South East,Secondary,7,39603,38948.0,98.34608489255865
+Rochdale,North West,Secondary,7,31843,31313.0,98.33558395879786
+Lambeth,Inner London,Secondary,7,28565,28001.0,98.02555575004376
+Hounslow,Outer London,Primary,R,38057,37176.0,97.68505137031295
+Merton,Outer London,Primary,R,28084,27382.0,97.50035607463325
+Redbridge,Outer London,Secondary,7,42753,41626.0,97.36392767758988
+South Gloucestershire,South West,Secondary,7,33736,32799.0,97.22255157695044
+Tower Hamlets,Inner London,Secondary,7,34525,33511.0,97.0629978276611
+Islington,Inner London,Secondary,7,18637,18082.0,97.02205290551055
+Wokingham,South East,Secondary,7,24233,23394.0,96.5377790616102
+Haringey,Inner London,Secondary,7,29224,28159.0,96.35573501231865
+Southampton,South East,Secondary,7,27783,26746.0,96.26750170967858
+North Northamptonshire,East Midlands,Secondary,7,12881,12357.0,95.93199285769738
+Poole,South West,Secondary,7,8108,7758.0,95.68327577701035
+Kingston upon Thames,Outer London,Primary,R,21538,20601.0,95.64954963320642
+Bournemouth,South West,Primary,R,12525,11968.0,95.55289421157684
+Newcastle upon Tyne,North East,Secondary,7,26840,25646.0,95.55141579731745
+Waltham Forest,Outer London,Secondary,7,33584,32088.0,95.54549785612197
+Luton,East of England,Secondary,7,34665,33093.0,95.46516659454781
+Sandwell,West Midlands,Secondary,7,49935,47585.0,95.29388204666066
+Portsmouth,South East,Secondary,7,23275,22157.0,95.19656283566059
+Bracknell Forest,South East,Secondary,7,15703,14948.0,95.19200152837037
+Bury,North West,Secondary,7,25983,24706.0,95.08524804679983
+York,Yorkshire and The Humber,Secondary,7,21524,20455.0,95.0334510314068
+Barking and Dagenham,Outer London,Secondary,7,36098,34255.0,94.89445398637044
+Reading,South East,Primary,R,23244,22025.0,94.75563586301841
+Richmond upon Thames,Outer London,Secondary,7,22511,21303.0,94.6337346186309
+Coventry,West Midlands,Secondary,7,47514,44954.0,94.61211432419918
+Barnsley,Yorkshire and The Humber,Secondary,7,29203,27589.0,94.47317056466802
+West Northamptonshire,East Midlands,Secondary,7,14871,14045.0,94.44556519400174
+Hackney,Inner London,Secondary,7,27565,26024.0,94.4095773625975
+St. Helens,North West,Secondary,7,23135,21830.0,94.35919602334127
+Buckinghamshire,South East,Secondary,7,72097,68010.0,94.3312481795359
+Camden,Inner London,Primary,R,18313,17241.0,94.14623491508765
+Warrington,North West,Secondary,7,28818,27117.0,94.09743910056216
+Stoke-on-Trent,West Midlands,Primary,R,37545,35301.0,94.02317219336796
+Worcestershire,West Midlands,Secondary,7,43016,40221.0,93.50241770503999
+Cambridgeshire,East of England,Secondary,7,74506,69663.0,93.49985236088368
+Surrey,South East,Primary,R,150603,140422.0,93.2398424998174
+Leeds,Yorkshire and The Humber,Secondary,7,102922,95905.0,93.1822156584598
+North Tyneside,North East,Secondary,7,19480,18149.0,93.16735112936345
+Essex,East of England,Secondary,7,186987,174190.0,93.15620872039233
+Kent,South East,Secondary,7,206235,191940.0,93.06858680631319
+Wandsworth,Inner London,Primary,R,34251,31857.0,93.01042305334151
+Somerset,South West,Secondary,7,52799,49103.0,92.99986742173148
+Darlington,North East,Secondary,7,13829,12859.0,92.98575457372189
+Hillingdon,Outer London,Secondary,7,40063,37187.0,92.82130644235329
+Dudley,West Midlands,Secondary,7,42026,39004.0,92.80921334412031
+Medway,South East,Secondary,7,39458,36568.0,92.67575650058289
+Barnet,Outer London,Primary,R,49615,45964.0,92.64133830494809
+Southend-on-Sea,East of England,Primary,R,24247,22460.0,92.63001608446406
+Blackburn with Darwen,North West,Secondary,7,23989,22162.0,92.38400933761307
+Thurrock,East of England,Primary,R,27859,25710.0,92.28615528195556
+Bromley,Outer London,Secondary,7,43817,40403.0,92.2085035488509
+West Sussex,South East,Secondary,7,102164,94189.0,92.19392349555616
+Hartlepool,North East,Secondary,7,13217,12158.0,91.9875917379133
+Middlesbrough,North East,Primary,R,22638,20813.0,91.93833377506847
+Nottinghamshire,East Midlands,Secondary,7,105202,96533.0,91.75966236383339
+Devon,South West,Secondary,7,89473,82097.0,91.75617225308194
+Hampshire,South East,Secondary,7,167531,153517.0,91.63498098859316
+Portsmouth,South East,Primary,R,27225,24925.0,91.55188246097336
+Wolverhampton,West Midlands,Secondary,7,37867,34664.0,91.54144769852378
+Cheshire East,North West,Secondary,7,48219,44127.0,91.51371865862005
+Bolton,North West,Secondary,7,44864,41017.0,91.42519614835949
+Stockton-on-Tees,North East,Secondary,7,27304,24945.0,91.36024025783767
+Telford and Wrekin,West Midlands,Secondary,7,25692,23456.0,91.2969017593025
+Dudley,West Midlands,Primary,R,44280,40365.0,91.15853658536585
+East Sussex,South East,Secondary,7,61385,55922.0,91.10043170155575
+Havering,Outer London,Primary,R,38534,35098.0,91.08319925260808
+Southampton,South East,Primary,R,33240,30268.0,91.05896510228641
+Wigan,North West,Secondary,7,43670,39761.0,91.04877490267918
+Newham,Inner London,Secondary,7,50998,46349.0,90.88395623357779
+Greenwich,Outer London,Primary,R,41995,38136.0,90.81081081081082
+Slough,South East,Primary,R,27116,24619.0,90.79141466292964
+Hertfordshire,East of England,Primary,R,168178,152625.0,90.75206031704504
+"Bournemouth, Christchurch and Poole",South West,Secondary,7,20874,18937.0,90.72051355753568
+Lewisham,Inner London,Primary,R,41646,37757.0,90.66176823704556
+Trafford,North West,Secondary,7,37175,33698.0,90.6469401479489
+Knowsley,North West,Primary,R,22326,20236.0,90.63871719071935
+Wolverhampton,West Midlands,Primary,R,39920,36182.0,90.63627254509018
+Slough,South East,Secondary,7,26724,24187.0,90.50666067953898
+Wigan,North West,Primary,R,43350,39182.0,90.38523644752019
+Poole,South West,Primary,R,10650,9625.0,90.3755868544601
+Harrow,Outer London,Primary,R,36556,33008.0,90.29434292592188
+Bracknell Forest,South East,Primary,R,17226,15547.0,90.25310577034715
+City of London,Inner London,Primary,R,359,324.0,90.25069637883009
+Walsall,West Midlands,Secondary,7,42271,38085.0,90.0972297792813
+Lancashire,North West,Secondary,7,163566,147305.0,90.05844735458469
+Cumberland,North West,Secondary,7,3172,2855.0,90.0063051702396
+Brighton and Hove,South East,Secondary,7,28610,25731.0,89.9370849353373
+Bromley,Outer London,Primary,R,46478,41785.0,89.90274968802444
+"Herefordshire, County of",West Midlands,Secondary,7,20743,18631.0,89.81825194041363
+Medway,South East,Primary,R,41502,37228.0,89.70170112283745
+Trafford,North West,Primary,R,34175,30642.0,89.66203365032919
+Hampshire,South East,Primary,R,178565,159951.0,89.57578472825021
+Oxfordshire,South East,Secondary,7,82969,74286.0,89.53464546999483
+Bury,North West,Primary,R,26166,23417.0,89.49399984712987
+Bradford,Yorkshire and The Humber,Primary,R,90501,80964.0,89.46199489508403
+Northamptonshire,East Midlands,Secondary,7,71324,63619.0,89.19718467836914
+Leeds,Yorkshire and The Humber,Primary,R,115274,102778.0,89.15974113850478
+West Sussex,South East,Primary,R,110641,98550.0,89.07186305257545
+Northumberland,North East,Secondary,7,12114,10789.0,89.06224203401023
+Warwickshire,West Midlands,Secondary,7,75280,67037.0,89.05021253985123
+Staffordshire,West Midlands,Secondary,7,95278,84842.0,89.0467893952434
+Leicester,East Midlands,Primary,R,53717,47806.0,88.9960347748385
+Kent,South East,Primary,R,213505,189624.0,88.81478185522587
+Plymouth,South West,Secondary,7,33780,29977.0,88.74185908821788
+Tower Hamlets,Inner London,Primary,R,39824,35335.0,88.72790277219767
+North Somerset,South West,Secondary,7,28322,25113.0,88.66958548125132
+"Bristol, City of",South West,Primary,R,63976,56690.0,88.6113542578467
+Liverpool,North West,Primary,R,64603,57202.0,88.54387567140844
+"Kingston upon Hull, City of",Yorkshire and The Humber,Primary,R,39700,35130.0,88.48866498740554
+Kingston upon Thames,Outer London,Secondary,7,21563,19066.0,88.41997866716133
+Enfield,Outer London,Primary,R,51364,45408.0,88.4043298808504
+Derby,East Midlands,Secondary,7,38569,34090.0,88.38704659182245
+Rochdale,North West,Primary,R,35311,31173.0,88.28127212483362
+Manchester,North West,Primary,R,82926,73208.0,88.28111810529869
+Hertfordshire,East of England,Secondary,7,166102,146629.0,88.27648071666808
+Tameside,North West,Secondary,7,33648,29687.0,88.22812648597242
+Wirral,North West,Secondary,7,44371,39134.0,88.1972459489306
+Camden,Inner London,Secondary,7,18558,16364.0,88.17760534540359
+Wirral,North West,Primary,R,43973,38752.0,88.12680508493848
+Norfolk,East of England,Secondary,7,106804,94107.0,88.11186846934572
+Brent,Outer London,Primary,R,45359,39916.0,88.00017637073128
+Peterborough,East of England,Secondary,7,31760,27940.0,87.97229219143577
+Salford,North West,Primary,R,36869,32411.0,87.90854105074723
+Derbyshire,East Midlands,Secondary,7,98490,86544.0,87.8708498324703
+East Sussex,South East,Primary,R,64633,56765.0,87.82665201986602
+Buckinghamshire,South East,Primary,R,74828,65711.0,87.81605816004704
+Essex,East of England,Primary,R,202505,177775.0,87.7879558529419
+Sheffield,Yorkshire and The Humber,Primary,R,75227,65991.0,87.72249325375198
+Liverpool,North West,Secondary,7,60189,52799.0,87.72200900496769
+Barnet,Outer London,Secondary,7,50838,44591.0,87.71194775561588
+Newcastle upon Tyne,North East,Primary,R,37457,32815.0,87.60712283418319
+Halton,North West,Secondary,7,18800,16456.0,87.53191489361703
+Warrington,North West,Primary,R,29740,26018.0,87.48486886348353
+Worcestershire,West Midlands,Primary,R,76665,67009.0,87.40494358573012
+Walsall,West Midlands,Primary,R,43236,37790.0,87.4040151725414
+Hammersmith and Fulham,Inner London,Primary,R,17058,14899.0,87.34318208465236
+Darlington,North East,Primary,R,14608,12746.0,87.25355969331872
+South Tyneside,North East,Primary,R,19817,17290.0,87.24832214765101
+Bexley,Outer London,Primary,R,37166,32426.0,87.24640800731852
+Gloucestershire,South West,Secondary,7,82179,71655.0,87.19380863724308
+Havering,Outer London,Secondary,7,37476,32674.0,87.18646600490982
+Southwark,Inner London,Secondary,7,35534,30962.0,87.13344965385265
+Sefton,North West,Primary,R,35005,30488.0,87.09612912441081
+Ealing,Outer London,Primary,R,50169,43692.0,87.08963702684926
+Nottingham,East Midlands,Primary,R,44838,39009.0,86.99986618493243
+Luton,East of England,Primary,R,38396,33402.0,86.99343681633503
+Solihull,West Midlands,Primary,R,30717,26719.0,86.98440602923463
+Barnsley,Yorkshire and The Humber,Primary,R,33264,28904.0,86.89273689273689
+North Tyneside,North East,Primary,R,28332,24613.0,86.87349992940844
+Windsor and Maidenhead,South East,Primary,R,19362,16788.0,86.70591881004029
+Richmond upon Thames,Outer London,Primary,R,27620,23948.0,86.70528602461984
+St. Helens,North West,Primary,R,24856,21544.0,86.6752494367557
+Somerset,South West,Primary,R,69872,60552.0,86.6613235630868
+Gloucestershire,South West,Primary,R,83734,72468.0,86.54548928750567
+Shropshire,West Midlands,Secondary,7,35898,31054.0,86.5062120452393
+Bedford,East of England,Secondary,7,16153,13972.0,86.49786417383768
+Coventry,West Midlands,Primary,R,51985,44939.0,86.44609021833222
+"Bournemouth, Christchurch and Poole",South West,Primary,R,20920,18073.0,86.39101338432123
+Waltham Forest,Outer London,Primary,R,42735,36911.0,86.37182637182637
+York,Yorkshire and The Humber,Primary,R,23299,20119.0,86.35134555131123
+Warwickshire,West Midlands,Primary,R,77772,67152.0,86.34469989199197
+Bolton,North West,Primary,R,46435,40077.0,86.30774200495316
+Birmingham,West Midlands,Primary,R,179626,154949.0,86.26201106744013
+Oldham,North West,Secondary,7,40128,34595.0,86.21162280701753
+Kirklees,Yorkshire and The Humber,Primary,R,64693,55746.0,86.17006476744005
+West Berkshire,South East,Primary,R,22409,19301.0,86.13057253781963
+Croydon,Outer London,Primary,R,59457,51207.0,86.12442605580503
+Redbridge,Outer London,Primary,R,48702,41921.0,86.07654716438749
+North East Lincolnshire,Yorkshire and The Humber,Secondary,7,22492,19358.0,86.06615685577094
+Cheshire East,North West,Primary,R,50182,43150.0,85.98700729345184
+North Lincolnshire,Yorkshire and The Humber,Secondary,7,24638,21185.0,85.98506372270477
+Wakefield,Yorkshire and The Humber,Primary,R,48940,42078.0,85.97874948917041
+Cornwall,South West,Secondary,7,70677,60678.0,85.85254043040877
+Suffolk,East of England,Secondary,7,91033,78121.0,85.81613261125086
+Wakefield,Yorkshire and The Humber,Secondary,7,46699,39991.0,85.63566671663206
+County Durham,North East,Secondary,7,66299,56743.0,85.58650960044646
+North Somerset,South West,Primary,R,28890,24719.0,85.56247836621668
+Tameside,North West,Primary,R,34550,29547.0,85.51953690303907
+Swindon,South West,Primary,R,35066,29932.0,85.35903724405406
+Leicestershire,East Midlands,Secondary,7,87236,74401.0,85.28703746159843
+Islington,Inner London,Primary,R,24497,20888.0,85.26758378576969
+Cheshire West and Chester,North West,Secondary,7,45516,38801.0,85.24694612883381
+South Gloucestershire,South West,Primary,R,40846,34731.0,85.02913381971307
+Doncaster,Yorkshire and The Humber,Secondary,7,42083,35777.0,85.01532685407409
+Bexley,Outer London,Secondary,7,38066,32355.0,84.99711028214153
+Milton Keynes,South East,Primary,R,46390,39409.0,84.95149816770856
+Telford and Wrekin,West Midlands,Primary,R,26706,22666.0,84.87231333782671
+Windsor and Maidenhead,South East,Secondary,7,15450,13104.0,84.81553398058253
+Sandwell,West Midlands,Primary,R,54773,46338.0,84.60007668011612
+Calderdale,Yorkshire and The Humber,Secondary,7,32442,27444.0,84.59404475679675
+Lancashire,North West,Primary,R,170089,143875.0,84.58806859938034
+Hillingdon,Outer London,Primary,R,49072,41448.0,84.46364525595044
+South Tyneside,North East,Secondary,7,19853,16765.0,84.4456757165164
+Norfolk,East of England,Primary,R,114606,96676.0,84.35509484669214
+Lincolnshire,East Midlands,Secondary,7,99282,83724.0,84.32948570737898
+Halton,North West,Primary,R,18345,15464.0,84.29544835104933
+Brighton and Hove,South East,Primary,R,31710,26624.0,83.96089561652475
+Leicestershire,East Midlands,Primary,R,93632,78599.0,83.94459159261791
+Southend-on-Sea,East of England,Secondary,7,26603,22280.0,83.7499530128181
+Hartlepool,North East,Primary,R,12824,10739.0,83.7414223331254
+Sunderland,North East,Secondary,7,36392,30423.0,83.59804352604968
+Blackburn with Darwen,North West,Primary,R,25976,21658.0,83.37696335078533
+Nottinghamshire,East Midlands,Primary,R,114896,95725.0,83.31447569976326
+Staffordshire,West Midlands,Primary,R,116542,97049.0,83.27384119030049
+Plymouth,South West,Primary,R,36635,30468.0,83.16637095673536
+Barking and Dagenham,Outer London,Primary,R,44381,36883.0,83.10538293413849
+Wokingham,South East,Primary,R,26438,21966.0,83.0849534760572
+Northamptonshire,East Midlands,Primary,R,84399,70076.0,83.0294197798552
+Torbay,South West,Primary,R,16798,13940.0,82.98606977021073
+Sefton,North West,Secondary,7,37583,31184.0,82.97368491073091
+Bedford,East of England,Primary,R,28067,23230.0,82.76623793066591
+Oxfordshire,South East,Primary,R,95917,79378.0,82.75696696101839
+Haringey,Inner London,Primary,R,35941,29701.0,82.63821262624857
+Peterborough,East of England,Primary,R,36246,29935.0,82.58842355018486
+Central Bedfordshire,East of England,Primary,R,45811,37705.0,82.30555980004802
+Shropshire,West Midlands,Primary,R,36773,30253.0,82.26959997824491
+North Lincolnshire,Yorkshire and The Humber,Primary,R,23701,19495.0,82.25391333699001
+Rotherham,Yorkshire and The Humber,Secondary,7,40762,33505.0,82.1966537461361
+West Berkshire,South East,Secondary,7,23517,19327.0,82.18310158608666
+Derby,East Midlands,Primary,R,40149,32924.0,82.0045331141498
+Gateshead,North East,Secondary,7,25009,20492.0,81.93850213922987
+Blackpool,North West,Primary,R,20390,16660.0,81.7067189798921
+Cambridgeshire,East of England,Primary,R,90786,74127.0,81.65025444451788
+Newham,Inner London,Primary,R,59216,48217.0,81.42562820859227
+Stockton-on-Tees,North East,Primary,R,30355,24713.0,81.41327623126338
+Lambeth,Inner London,Primary,R,36462,29564.0,81.08167407163623
+Lincolnshire,East Midlands,Primary,R,99729,80721.0,80.94034834401226
+Sunderland,North East,Primary,R,37913,30670.0,80.89573497217313
+Central Bedfordshire,East of England,Secondary,9,26536,21441.0,80.79966837503768
+Cornwall,South West,Primary,R,72105,58129.0,80.617155537064
+Southwark,Inner London,Primary,R,40865,32941.0,80.60932338186713
+Isle of Wight,South East,Secondary,7,14803,11897.0,80.36884415321218
+Hackney,Inner London,Primary,R,31999,25717.0,80.36813650426576
+Cheshire West and Chester,North West,Primary,R,47954,38535.0,80.35825999916587
+Gateshead,North East,Primary,R,27448,22038.0,80.29000291460216
+Suffolk,East of England,Primary,R,99491,79833.0,80.24142887296338
+East Riding of Yorkshire,Yorkshire and The Humber,Secondary,7,44369,35587.0,80.20690121481215
+North Northamptonshire,East Midlands,Primary,R,14072,11281.0,80.16628766344513
+Wiltshire,South West,Secondary,7,66574,53272.0,80.01922672514794
+Dorset,South West,Secondary,7,34916,27894.0,79.88887615992668
+Hammersmith and Fulham,Inner London,Secondary,7,17291,13757.0,79.561621652883
+Redcar and Cleveland,North East,Primary,R,20344,16143.0,79.35017695635077
+Rotherham,Yorkshire and The Humber,Primary,R,40894,32422.0,79.28302440455812
+Bedford,East of England,Secondary,9,5093,4037.0,79.26565874730022
+North Yorkshire,Yorkshire and The Humber,Secondary,7,81998,64992.0,79.2604697675553
+Wiltshire,South West,Primary,R,70609,55918.0,79.19387046977015
+Torbay,South West,Secondary,7,18392,14526.0,78.97999130056547
+Dorset,South West,Primary,R,47237,37302.0,78.96775832504181
+Redcar and Cleveland,North East,Secondary,7,20932,16501.0,78.83145423275369
+Isle of Wight,South East,Primary,R,14755,11580.0,78.48187055235513
+Derbyshire,East Midlands,Primary,R,107361,84207.0,78.43350937491267
+Bath and North East Somerset,South West,Primary,R,24659,19311.0,78.31217810941239
+Oldham,North West,Primary,R,42288,32944.0,77.90389708664397
+Bournemouth,South West,Secondary,7,12014,9356.0,77.87581155318794
+"Herefordshire, County of",West Midlands,Primary,R,24257,18782.0,77.42919569608773
+Devon,South West,Primary,R,102328,78888.0,77.0932687045579
+Cumbria,North West,Secondary,7,62115,47856.0,77.04419222410046
+Calderdale,Yorkshire and The Humber,Primary,R,32745,25201.0,76.96136814780883
+North East Lincolnshire,Yorkshire and The Humber,Primary,R,23788,18281.0,76.84967210358164
+Solihull,West Midlands,Secondary,7,36478,27796.0,76.19935303470585
+East Riding of Yorkshire,Yorkshire and The Humber,Primary,R,44240,33699.0,76.17314647377938
+West Northamptonshire,East Midlands,Primary,R,17723,13467.0,75.98600688371043
+North Yorkshire,Yorkshire and The Humber,Primary,R,80538,61170.0,75.9517246517172
+Stockport,North West,Primary,R,47005,35692.0,75.93234762259334
+Sutton,Outer London,Secondary,7,36785,27853.0,75.71836346336822
+Kensington and Chelsea,Inner London,Primary,R,11724,8851.0,75.49471170249062
+County Durham,North East,Primary,R,72152,53694.0,74.4178955538308
+Westmorland and Furness,North West,Secondary,7,2870,2130.0,74.21602787456446
+Doncaster,Yorkshire and The Humber,Primary,R,46820,34227.0,73.10337462622812
+Westminster,Inner London,Primary,R,17755,12915.0,72.7400732188116
+Rutland,East Midlands,Primary,R,5215,3746.0,71.83125599232983
+Northumberland,North East,Primary,R,43475,30982.0,71.26394479585969
+Bath and North East Somerset,South West,Secondary,7,27089,19118.0,70.57477204769464
+Cumbria,North West,Primary,R,57361,40218.0,70.11384041421871
+Northumberland,North East,Secondary,9,11771,8234.0,69.95157590688981
+Kensington and Chelsea,Inner London,Secondary,7,11015,7667.0,69.60508397639582
+Cumberland,North West,Primary,R,3604,2363.0,65.56603773584906
+Westmorland and Furness,North West,Primary,R,2676,1745.0,65.20926756352765
+Westminster,Inner London,Secondary,7,18893,11934.0,63.16625205102419
+Rutland,East Midlands,Secondary,7,6388,3788.0,59.29868503443957
