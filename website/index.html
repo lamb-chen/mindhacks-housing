@@ -31,11 +31,14 @@
     <div id="section2" class="section">
         <div id='map'></div>
         <div id='info-panel'>
-            <h2 id="county-name">County Information</h2>
-            <div id='county-info'>Click on a county to see details.
+            <button id="toggle-housing">Housing Data</button>
+            <button id="toggle-schools">School Data</button>
+
+            <div id="info-box">
+                <h2 id="county-name">Select a County</h2>
                 <p id="county-year"></p>
-                <p id="major-applications"></p>
-                <p id="minor-applications"></p>
+                <p id="info-text"></p>
+                <h3 id="chart-title">Housing Data</h3>
                 <canvas id="applications-chart"></canvas>
             </div>
         </div>

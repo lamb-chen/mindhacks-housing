@@ -1,0 +1,1415 @@
+[
+  {
+    "localAuthority": "Knowsley",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 14600,
+    "totalOffers": 19042,
+    "usedCapacityPercent": 130.42
+  },
+  {
+    "localAuthority": "Lewisham",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 27147,
+    "totalOffers": 31350,
+    "usedCapacityPercent": 115.48
+  },
+  {
+    "localAuthority": "Merton",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 20157,
+    "totalOffers": 23199,
+    "usedCapacityPercent": 115.09
+  },
+  {
+    "localAuthority": "Reading",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 17435,
+    "totalOffers": 19713,
+    "usedCapacityPercent": 113.07
+  },
+  {
+    "localAuthority": "Ealing",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 39324,
+    "totalOffers": 43078,
+    "usedCapacityPercent": 109.55
+  },
+  {
+    "localAuthority": "Greenwich",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 31400,
+    "totalOffers": 33997,
+    "usedCapacityPercent": 108.27
+  },
+  {
+    "localAuthority": "Harrow",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 28604,
+    "totalOffers": 30865,
+    "usedCapacityPercent": 107.9
+  },
+  {
+    "localAuthority": "Middlesbrough",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 18805,
+    "totalOffers": 20083,
+    "usedCapacityPercent": 106.8
+  },
+  {
+    "localAuthority": "Stoke-on-Trent",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 32568,
+    "totalOffers": 34441,
+    "usedCapacityPercent": 105.75
+  },
+  {
+    "localAuthority": "Leicester",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 46234,
+    "totalOffers": 48826,
+    "usedCapacityPercent": 105.61
+  },
+  {
+    "localAuthority": "Bristol, City of",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 46023,
+    "totalOffers": 48578,
+    "usedCapacityPercent": 105.55
+  },
+  {
+    "localAuthority": "Croydon",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 46488,
+    "totalOffers": 48718,
+    "usedCapacityPercent": 104.8
+  },
+  {
+    "localAuthority": "Thurrock",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 24169,
+    "totalOffers": 25225,
+    "usedCapacityPercent": 104.37
+  },
+  {
+    "localAuthority": "Brent",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 37275,
+    "totalOffers": 38505,
+    "usedCapacityPercent": 103.3
+  },
+  {
+    "localAuthority": "Enfield",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 45965,
+    "totalOffers": 47375,
+    "usedCapacityPercent": 103.07
+  },
+  {
+    "localAuthority": "Birmingham",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 157052,
+    "totalOffers": 160743,
+    "usedCapacityPercent": 102.35
+  },
+  {
+    "localAuthority": "Salford",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 28128,
+    "totalOffers": 28761,
+    "usedCapacityPercent": 102.25
+  },
+  {
+    "localAuthority": "Sheffield",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 65693,
+    "totalOffers": 67097,
+    "usedCapacityPercent": 102.14
+  },
+  {
+    "localAuthority": "Wandsworth",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 24044,
+    "totalOffers": 24546,
+    "usedCapacityPercent": 102.09
+  },
+  {
+    "localAuthority": "Swindon",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 29072,
+    "totalOffers": 29571,
+    "usedCapacityPercent": 101.72
+  },
+  {
+    "localAuthority": "Hounslow",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 33666,
+    "totalOffers": 34224,
+    "usedCapacityPercent": 101.66
+  },
+  {
+    "localAuthority": "Bradford",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 82202,
+    "totalOffers": 83562,
+    "usedCapacityPercent": 101.65
+  },
+  {
+    "localAuthority": "Blackpool",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 16108,
+    "totalOffers": 16371,
+    "usedCapacityPercent": 101.63
+  },
+  {
+    "localAuthority": "Nottingham",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 36311,
+    "totalOffers": 36835,
+    "usedCapacityPercent": 101.44
+  },
+  {
+    "localAuthority": "Kingston upon Hull, City of",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 33630,
+    "totalOffers": 33885,
+    "usedCapacityPercent": 100.76
+  },
+  {
+    "localAuthority": "Stockport",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 35794,
+    "totalOffers": 35411,
+    "usedCapacityPercent": 98.93
+  },
+  {
+    "localAuthority": "Manchester",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 70119,
+    "totalOffers": 69336,
+    "usedCapacityPercent": 98.88
+  },
+  {
+    "localAuthority": "Kirklees",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 54495,
+    "totalOffers": 53605,
+    "usedCapacityPercent": 98.37
+  },
+  {
+    "localAuthority": "Surrey",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 133011,
+    "totalOffers": 130826,
+    "usedCapacityPercent": 98.36
+  },
+  {
+    "localAuthority": "Milton Keynes",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 39603,
+    "totalOffers": 38948,
+    "usedCapacityPercent": 98.35
+  },
+  {
+    "localAuthority": "Rochdale",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 31843,
+    "totalOffers": 31313,
+    "usedCapacityPercent": 98.34
+  },
+  {
+    "localAuthority": "Lambeth",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 28565,
+    "totalOffers": 28001,
+    "usedCapacityPercent": 98.03
+  },
+  {
+    "localAuthority": "Redbridge",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 42753,
+    "totalOffers": 41626,
+    "usedCapacityPercent": 97.36
+  },
+  {
+    "localAuthority": "South Gloucestershire",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 33736,
+    "totalOffers": 32799,
+    "usedCapacityPercent": 97.22
+  },
+  {
+    "localAuthority": "Tower Hamlets",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 34525,
+    "totalOffers": 33511,
+    "usedCapacityPercent": 97.06
+  },
+  {
+    "localAuthority": "Islington",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 18637,
+    "totalOffers": 18082,
+    "usedCapacityPercent": 97.02
+  },
+  {
+    "localAuthority": "Wokingham",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 24233,
+    "totalOffers": 23394,
+    "usedCapacityPercent": 96.54
+  },
+  {
+    "localAuthority": "Haringey",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 29224,
+    "totalOffers": 28159,
+    "usedCapacityPercent": 96.36
+  },
+  {
+    "localAuthority": "Southampton",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 27783,
+    "totalOffers": 26746,
+    "usedCapacityPercent": 96.27
+  },
+  {
+    "localAuthority": "North Northamptonshire",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 12881,
+    "totalOffers": 12357,
+    "usedCapacityPercent": 95.93
+  },
+  {
+    "localAuthority": "Poole",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 8108,
+    "totalOffers": 7758,
+    "usedCapacityPercent": 95.68
+  },
+  {
+    "localAuthority": "Newcastle upon Tyne",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 26840,
+    "totalOffers": 25646,
+    "usedCapacityPercent": 95.55
+  },
+  {
+    "localAuthority": "Waltham Forest",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 33584,
+    "totalOffers": 32088,
+    "usedCapacityPercent": 95.55
+  },
+  {
+    "localAuthority": "Luton",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 34665,
+    "totalOffers": 33093,
+    "usedCapacityPercent": 95.47
+  },
+  {
+    "localAuthority": "Sandwell",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 49935,
+    "totalOffers": 47585,
+    "usedCapacityPercent": 95.29
+  },
+  {
+    "localAuthority": "Portsmouth",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 23275,
+    "totalOffers": 22157,
+    "usedCapacityPercent": 95.2
+  },
+  {
+    "localAuthority": "Bracknell Forest",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 15703,
+    "totalOffers": 14948,
+    "usedCapacityPercent": 95.19
+  },
+  {
+    "localAuthority": "Bury",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 25983,
+    "totalOffers": 24706,
+    "usedCapacityPercent": 95.09
+  },
+  {
+    "localAuthority": "York",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 21524,
+    "totalOffers": 20455,
+    "usedCapacityPercent": 95.03
+  },
+  {
+    "localAuthority": "Barking and Dagenham",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 36098,
+    "totalOffers": 34255,
+    "usedCapacityPercent": 94.89
+  },
+  {
+    "localAuthority": "Richmond upon Thames",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 22511,
+    "totalOffers": 21303,
+    "usedCapacityPercent": 94.63
+  },
+  {
+    "localAuthority": "Coventry",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 47514,
+    "totalOffers": 44954,
+    "usedCapacityPercent": 94.61
+  },
+  {
+    "localAuthority": "Barnsley",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 29203,
+    "totalOffers": 27589,
+    "usedCapacityPercent": 94.47
+  },
+  {
+    "localAuthority": "West Northamptonshire",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 14871,
+    "totalOffers": 14045,
+    "usedCapacityPercent": 94.45
+  },
+  {
+    "localAuthority": "Hackney",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 27565,
+    "totalOffers": 26024,
+    "usedCapacityPercent": 94.41
+  },
+  {
+    "localAuthority": "St. Helens",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 23135,
+    "totalOffers": 21830,
+    "usedCapacityPercent": 94.36
+  },
+  {
+    "localAuthority": "Buckinghamshire",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 72097,
+    "totalOffers": 68010,
+    "usedCapacityPercent": 94.33
+  },
+  {
+    "localAuthority": "Warrington",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 28818,
+    "totalOffers": 27117,
+    "usedCapacityPercent": 94.1
+  },
+  {
+    "localAuthority": "Worcestershire",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 43016,
+    "totalOffers": 40221,
+    "usedCapacityPercent": 93.5
+  },
+  {
+    "localAuthority": "Cambridgeshire",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 74506,
+    "totalOffers": 69663,
+    "usedCapacityPercent": 93.5
+  },
+  {
+    "localAuthority": "Leeds",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 102922,
+    "totalOffers": 95905,
+    "usedCapacityPercent": 93.18
+  },
+  {
+    "localAuthority": "North Tyneside",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 19480,
+    "totalOffers": 18149,
+    "usedCapacityPercent": 93.17
+  },
+  {
+    "localAuthority": "Essex",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 186987,
+    "totalOffers": 174190,
+    "usedCapacityPercent": 93.16
+  },
+  {
+    "localAuthority": "Kent",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 206235,
+    "totalOffers": 191940,
+    "usedCapacityPercent": 93.07
+  },
+  {
+    "localAuthority": "Somerset",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 52799,
+    "totalOffers": 49103,
+    "usedCapacityPercent": 93.0
+  },
+  {
+    "localAuthority": "Darlington",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 13829,
+    "totalOffers": 12859,
+    "usedCapacityPercent": 92.99
+  },
+  {
+    "localAuthority": "Hillingdon",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 40063,
+    "totalOffers": 37187,
+    "usedCapacityPercent": 92.82
+  },
+  {
+    "localAuthority": "Dudley",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 42026,
+    "totalOffers": 39004,
+    "usedCapacityPercent": 92.81
+  },
+  {
+    "localAuthority": "Medway",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 39458,
+    "totalOffers": 36568,
+    "usedCapacityPercent": 92.68
+  },
+  {
+    "localAuthority": "Blackburn with Darwen",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 23989,
+    "totalOffers": 22162,
+    "usedCapacityPercent": 92.38
+  },
+  {
+    "localAuthority": "Bromley",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 43817,
+    "totalOffers": 40403,
+    "usedCapacityPercent": 92.21
+  },
+  {
+    "localAuthority": "West Sussex",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 102164,
+    "totalOffers": 94189,
+    "usedCapacityPercent": 92.19
+  },
+  {
+    "localAuthority": "Hartlepool",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 13217,
+    "totalOffers": 12158,
+    "usedCapacityPercent": 91.99
+  },
+  {
+    "localAuthority": "Nottinghamshire",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 105202,
+    "totalOffers": 96533,
+    "usedCapacityPercent": 91.76
+  },
+  {
+    "localAuthority": "Devon",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 89473,
+    "totalOffers": 82097,
+    "usedCapacityPercent": 91.76
+  },
+  {
+    "localAuthority": "Hampshire",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 167531,
+    "totalOffers": 153517,
+    "usedCapacityPercent": 91.63
+  },
+  {
+    "localAuthority": "Wolverhampton",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 37867,
+    "totalOffers": 34664,
+    "usedCapacityPercent": 91.54
+  },
+  {
+    "localAuthority": "Cheshire East",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 48219,
+    "totalOffers": 44127,
+    "usedCapacityPercent": 91.51
+  },
+  {
+    "localAuthority": "Bolton",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 44864,
+    "totalOffers": 41017,
+    "usedCapacityPercent": 91.43
+  },
+  {
+    "localAuthority": "Stockton-on-Tees",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 27304,
+    "totalOffers": 24945,
+    "usedCapacityPercent": 91.36
+  },
+  {
+    "localAuthority": "Telford and Wrekin",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 25692,
+    "totalOffers": 23456,
+    "usedCapacityPercent": 91.3
+  },
+  {
+    "localAuthority": "East Sussex",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 61385,
+    "totalOffers": 55922,
+    "usedCapacityPercent": 91.1
+  },
+  {
+    "localAuthority": "Wigan",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 43670,
+    "totalOffers": 39761,
+    "usedCapacityPercent": 91.05
+  },
+  {
+    "localAuthority": "Newham",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 50998,
+    "totalOffers": 46349,
+    "usedCapacityPercent": 90.88
+  },
+  {
+    "localAuthority": "Bournemouth, Christchurch and Poole",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 20874,
+    "totalOffers": 18937,
+    "usedCapacityPercent": 90.72
+  },
+  {
+    "localAuthority": "Trafford",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 37175,
+    "totalOffers": 33698,
+    "usedCapacityPercent": 90.65
+  },
+  {
+    "localAuthority": "Slough",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 26724,
+    "totalOffers": 24187,
+    "usedCapacityPercent": 90.51
+  },
+  {
+    "localAuthority": "Walsall",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 42271,
+    "totalOffers": 38085,
+    "usedCapacityPercent": 90.1
+  },
+  {
+    "localAuthority": "Lancashire",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 163566,
+    "totalOffers": 147305,
+    "usedCapacityPercent": 90.06
+  },
+  {
+    "localAuthority": "Cumberland",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 3172,
+    "totalOffers": 2855,
+    "usedCapacityPercent": 90.01
+  },
+  {
+    "localAuthority": "Brighton and Hove",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 28610,
+    "totalOffers": 25731,
+    "usedCapacityPercent": 89.94
+  },
+  {
+    "localAuthority": "Herefordshire, County of",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 20743,
+    "totalOffers": 18631,
+    "usedCapacityPercent": 89.82
+  },
+  {
+    "localAuthority": "Oxfordshire",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 82969,
+    "totalOffers": 74286,
+    "usedCapacityPercent": 89.53
+  },
+  {
+    "localAuthority": "Northamptonshire",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 71324,
+    "totalOffers": 63619,
+    "usedCapacityPercent": 89.2
+  },
+  {
+    "localAuthority": "Northumberland",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 12114,
+    "totalOffers": 10789,
+    "usedCapacityPercent": 89.06
+  },
+  {
+    "localAuthority": "Warwickshire",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 75280,
+    "totalOffers": 67037,
+    "usedCapacityPercent": 89.05
+  },
+  {
+    "localAuthority": "Staffordshire",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 95278,
+    "totalOffers": 84842,
+    "usedCapacityPercent": 89.05
+  },
+  {
+    "localAuthority": "Plymouth",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 33780,
+    "totalOffers": 29977,
+    "usedCapacityPercent": 88.74
+  },
+  {
+    "localAuthority": "North Somerset",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 28322,
+    "totalOffers": 25113,
+    "usedCapacityPercent": 88.67
+  },
+  {
+    "localAuthority": "Kingston upon Thames",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 21563,
+    "totalOffers": 19066,
+    "usedCapacityPercent": 88.42
+  },
+  {
+    "localAuthority": "Derby",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 38569,
+    "totalOffers": 34090,
+    "usedCapacityPercent": 88.39
+  },
+  {
+    "localAuthority": "Hertfordshire",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 166102,
+    "totalOffers": 146629,
+    "usedCapacityPercent": 88.28
+  },
+  {
+    "localAuthority": "Tameside",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 33648,
+    "totalOffers": 29687,
+    "usedCapacityPercent": 88.23
+  },
+  {
+    "localAuthority": "Wirral",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 44371,
+    "totalOffers": 39134,
+    "usedCapacityPercent": 88.2
+  },
+  {
+    "localAuthority": "Camden",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 18558,
+    "totalOffers": 16364,
+    "usedCapacityPercent": 88.18
+  },
+  {
+    "localAuthority": "Norfolk",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 106804,
+    "totalOffers": 94107,
+    "usedCapacityPercent": 88.11
+  },
+  {
+    "localAuthority": "Peterborough",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 31760,
+    "totalOffers": 27940,
+    "usedCapacityPercent": 87.97
+  },
+  {
+    "localAuthority": "Derbyshire",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 98490,
+    "totalOffers": 86544,
+    "usedCapacityPercent": 87.87
+  },
+  {
+    "localAuthority": "Liverpool",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 60189,
+    "totalOffers": 52799,
+    "usedCapacityPercent": 87.72
+  },
+  {
+    "localAuthority": "Barnet",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 50838,
+    "totalOffers": 44591,
+    "usedCapacityPercent": 87.71
+  },
+  {
+    "localAuthority": "Halton",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 18800,
+    "totalOffers": 16456,
+    "usedCapacityPercent": 87.53
+  },
+  {
+    "localAuthority": "Gloucestershire",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 82179,
+    "totalOffers": 71655,
+    "usedCapacityPercent": 87.19
+  },
+  {
+    "localAuthority": "Havering",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 37476,
+    "totalOffers": 32674,
+    "usedCapacityPercent": 87.19
+  },
+  {
+    "localAuthority": "Southwark",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 35534,
+    "totalOffers": 30962,
+    "usedCapacityPercent": 87.13
+  },
+  {
+    "localAuthority": "Shropshire",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 35898,
+    "totalOffers": 31054,
+    "usedCapacityPercent": 86.51
+  },
+  {
+    "localAuthority": "Bedford",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 16153,
+    "totalOffers": 13972,
+    "usedCapacityPercent": 86.5
+  },
+  {
+    "localAuthority": "Oldham",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 40128,
+    "totalOffers": 34595,
+    "usedCapacityPercent": 86.21
+  },
+  {
+    "localAuthority": "North East Lincolnshire",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 22492,
+    "totalOffers": 19358,
+    "usedCapacityPercent": 86.07
+  },
+  {
+    "localAuthority": "North Lincolnshire",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 24638,
+    "totalOffers": 21185,
+    "usedCapacityPercent": 85.99
+  },
+  {
+    "localAuthority": "Cornwall",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 70677,
+    "totalOffers": 60678,
+    "usedCapacityPercent": 85.85
+  },
+  {
+    "localAuthority": "Suffolk",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 91033,
+    "totalOffers": 78121,
+    "usedCapacityPercent": 85.82
+  },
+  {
+    "localAuthority": "Wakefield",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 46699,
+    "totalOffers": 39991,
+    "usedCapacityPercent": 85.64
+  },
+  {
+    "localAuthority": "County Durham",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 66299,
+    "totalOffers": 56743,
+    "usedCapacityPercent": 85.59
+  },
+  {
+    "localAuthority": "Leicestershire",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 87236,
+    "totalOffers": 74401,
+    "usedCapacityPercent": 85.29
+  },
+  {
+    "localAuthority": "Cheshire West and Chester",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 45516,
+    "totalOffers": 38801,
+    "usedCapacityPercent": 85.25
+  },
+  {
+    "localAuthority": "Doncaster",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 42083,
+    "totalOffers": 35777,
+    "usedCapacityPercent": 85.02
+  },
+  {
+    "localAuthority": "Bexley",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 38066,
+    "totalOffers": 32355,
+    "usedCapacityPercent": 85.0
+  },
+  {
+    "localAuthority": "Windsor and Maidenhead",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 15450,
+    "totalOffers": 13104,
+    "usedCapacityPercent": 84.82
+  },
+  {
+    "localAuthority": "Calderdale",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 32442,
+    "totalOffers": 27444,
+    "usedCapacityPercent": 84.59
+  },
+  {
+    "localAuthority": "South Tyneside",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 19853,
+    "totalOffers": 16765,
+    "usedCapacityPercent": 84.45
+  },
+  {
+    "localAuthority": "Lincolnshire",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 99282,
+    "totalOffers": 83724,
+    "usedCapacityPercent": 84.33
+  },
+  {
+    "localAuthority": "Southend-on-Sea",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 26603,
+    "totalOffers": 22280,
+    "usedCapacityPercent": 83.75
+  },
+  {
+    "localAuthority": "Sunderland",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 36392,
+    "totalOffers": 30423,
+    "usedCapacityPercent": 83.6
+  },
+  {
+    "localAuthority": "Sefton",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 37583,
+    "totalOffers": 31184,
+    "usedCapacityPercent": 82.97
+  },
+  {
+    "localAuthority": "Rotherham",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 40762,
+    "totalOffers": 33505,
+    "usedCapacityPercent": 82.2
+  },
+  {
+    "localAuthority": "West Berkshire",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 23517,
+    "totalOffers": 19327,
+    "usedCapacityPercent": 82.18
+  },
+  {
+    "localAuthority": "Gateshead",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 25009,
+    "totalOffers": 20492,
+    "usedCapacityPercent": 81.94
+  },
+  {
+    "localAuthority": "Central Bedfordshire",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 9,
+    "admissionNumbers": 26536,
+    "totalOffers": 21441,
+    "usedCapacityPercent": 80.8
+  },
+  {
+    "localAuthority": "Isle of Wight",
+    "region": "South East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 14803,
+    "totalOffers": 11897,
+    "usedCapacityPercent": 80.37
+  },
+  {
+    "localAuthority": "East Riding of Yorkshire",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 44369,
+    "totalOffers": 35587,
+    "usedCapacityPercent": 80.21
+  },
+  {
+    "localAuthority": "Wiltshire",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 66574,
+    "totalOffers": 53272,
+    "usedCapacityPercent": 80.02
+  },
+  {
+    "localAuthority": "Dorset",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 34916,
+    "totalOffers": 27894,
+    "usedCapacityPercent": 79.89
+  },
+  {
+    "localAuthority": "Hammersmith and Fulham",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 17291,
+    "totalOffers": 13757,
+    "usedCapacityPercent": 79.56
+  },
+  {
+    "localAuthority": "Bedford",
+    "region": "East of England",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 9,
+    "admissionNumbers": 5093,
+    "totalOffers": 4037,
+    "usedCapacityPercent": 79.27
+  },
+  {
+    "localAuthority": "North Yorkshire",
+    "region": "Yorkshire and The Humber",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 81998,
+    "totalOffers": 64992,
+    "usedCapacityPercent": 79.26
+  },
+  {
+    "localAuthority": "Torbay",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 18392,
+    "totalOffers": 14526,
+    "usedCapacityPercent": 78.98
+  },
+  {
+    "localAuthority": "Redcar and Cleveland",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 20932,
+    "totalOffers": 16501,
+    "usedCapacityPercent": 78.83
+  },
+  {
+    "localAuthority": "Bournemouth",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 12014,
+    "totalOffers": 9356,
+    "usedCapacityPercent": 77.88
+  },
+  {
+    "localAuthority": "Cumbria",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 62115,
+    "totalOffers": 47856,
+    "usedCapacityPercent": 77.04
+  },
+  {
+    "localAuthority": "Solihull",
+    "region": "West Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 36478,
+    "totalOffers": 27796,
+    "usedCapacityPercent": 76.2
+  },
+  {
+    "localAuthority": "Sutton",
+    "region": "Outer London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 36785,
+    "totalOffers": 27853,
+    "usedCapacityPercent": 75.72
+  },
+  {
+    "localAuthority": "Westmorland and Furness",
+    "region": "North West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 2870,
+    "totalOffers": 2130,
+    "usedCapacityPercent": 74.22
+  },
+  {
+    "localAuthority": "Bath and North East Somerset",
+    "region": "South West",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 27089,
+    "totalOffers": 19118,
+    "usedCapacityPercent": 70.57
+  },
+  {
+    "localAuthority": "Northumberland",
+    "region": "North East",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 9,
+    "admissionNumbers": 11771,
+    "totalOffers": 8234,
+    "usedCapacityPercent": 69.95
+  },
+  {
+    "localAuthority": "Kensington and Chelsea",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 11015,
+    "totalOffers": 7667,
+    "usedCapacityPercent": 69.61
+  },
+  {
+    "localAuthority": "Westminster",
+    "region": "Inner London",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 18893,
+    "totalOffers": 11934,
+    "usedCapacityPercent": 63.17
+  },
+  {
+    "localAuthority": "Rutland",
+    "region": "East Midlands",
+    "schoolPhase": "Secondary",
+    "yearAdmission": 7,
+    "admissionNumbers": 6388,
+    "totalOffers": 3788,
+    "usedCapacityPercent": 59.3
+  }
+]
