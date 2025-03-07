@@ -1,6 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0 10%;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.section {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+#section2 {
+    flex-direction: row;
+}
+
+#section2 div {
+    width: 50%; 
+}
+
+.mapboxgl-control-container {
+    display: none;
+}
+
+#map {
+    margin: 2rem auto;
+}
