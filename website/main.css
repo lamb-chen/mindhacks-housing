@@ -26,12 +26,15 @@ h1 {
 }
 
 #section1 {
+  background: white;
   margin: 2rem 0;
-  padding: 2rem;
+  padding: 1rem 2rem;
+  border: 1px solid #ccc;
 }
 
 #section2 {
-    height: 100vh;
+  height: 80vh;
+  margin-bottom: 2rem;
 }
 
 .mapboxgl-control-container {
@@ -46,6 +49,7 @@ h1 {
 }
 
 #info-panel {
+  background: white;
   float: right;
   width: 35%;
   height: 80vh;
