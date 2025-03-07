@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="/main.css">
-    <script src="main.js"></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js'></script>
 </head>
 
 <body>
@@ -50,24 +51,17 @@
             felis. Aliquam turpis nisl, pharetra vitae justo quis, luctus elementum ante. Cras congue ultricies est ut
             cursus.</p>
     </div>
-    <!-- Mapbox UK -->
     <div id="section2" class="section">
-        <div id='map' style='width: 59%; height: 80vh;'></div>
-        <div></div>
+        <div id='map' style='width: 59%; height: 80vh; display: inline-block;'></div>
+        <div id='info-panel'
+            style='width: 39%; height: 80vh; display: inline-block; vertical-align: top; overflow-y: auto; padding: 10px; border-left: 1px solid #ccc;'>
+            <h2>County Information</h2>
+            <div id='county-info'>Click on a county to see details.</div>
+        </div>
     </div>
 
 
-    <script src='https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js'></script>
-    <script>
-        mapboxgl.accessToken = 'pk.eyJ1Ijoic2FuazYiLCJhIjoiY203eXA3MW1zMGN1cDJxczF1OWd3Y2IwayJ9.3Zq1ApcFAPsu_x9fgPix0A';
-        var map = new mapboxgl.Map({
-            container: 'map',
-            style: 'mapbox://styles/mapbox/streets-v11',
-            center: [-4, 55],
-            zoom: 4.7,
-            pitch: 0,
-        });
-    </script>
+    <script src="main.js"></script>
 </body>
 
 </html>
