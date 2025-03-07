@@ -56,12 +56,19 @@
         <div id='info-panel'
             style='width: 44%; height: 80vh; display: inline-block; vertical-align: top; overflow-y: auto; padding: 10px; border-left: 1px solid #ccc;'>
             <h2 id="county-name">County Information</h2>
-            <div id='county-info'>Click on a county to see details.</div>
+            <div id='county-info'>Click on a county to see details.
+                <p id="county-year"></p>
+                <p id="major-applications"></p>
+                <p id="minor-applications"></p>
+                <canvas id="applications-chart"></canvas>
+            </div>
         </div>
     </div>
 
 
     <script src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
 </body>
 
 </html>
