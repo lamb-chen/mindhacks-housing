@@ -115,7 +115,6 @@ map.on('load', async function () {
         applicationsChart.update();
     }
 
-    
     const averages = {
         schoolCapacity: schoolData.reduce((sum, school) => sum + school.usedCapacityPercent, 0) / schoolData.length,
         rentToOwnershipRatio: homeOwnershipData.reduce((sum, entry) => {
@@ -125,7 +124,7 @@ map.on('load', async function () {
         }, 0) / homeOwnershipData.length,
         priceChange: priceChangeData.reduce((sum, entry) => parseFloat(sum) + parseFloat(entry["YearlyChange"]), 0) / priceChangeData.length
     };
-
+    document.getElementById('acceptance-ave').innerText = `${(averageRatio * 100).toFixed(1)}%`;
     document.getElementById('school-ave').innerText = `${averages.schoolCapacity.toFixed(1)}%`;
     document.getElementById('homeownership-ave').innerText = `${(averages.rentToOwnershipRatio * 100).toFixed(1)}%`;
     document.getElementById('pricechange-ave').innerText = `${averages.priceChange.toFixed(1)}%`;
@@ -154,7 +153,6 @@ map.on('load', async function () {
                 rentToOwnershipRatio = totalRented / totalOwned;
             }
             rentToOwnershipRatio = rentToOwnershipRatio;
-
 
             document.getElementById('county-name').innerText = properties[key];
             if (latestCountyData) document.getElementById('county-year').innerText = `Year: ${latestCountyData.year}`;
