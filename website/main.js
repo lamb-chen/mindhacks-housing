@@ -28,7 +28,7 @@ map.on('load', async function () {
 
         if (currCountyData) ratio = currCountyData.appliedMajor / currCountyData.acceptedMajor;
         const g = Math.round(75 * ratio);
-        const r = Math.round(200 * (1 - ratio));
+        const r = Math.round(255 * (1 - ratio));
 
         ladData.features[i].properties['countyInfo'] = countyData.filter(({county}) => county === countyId).at(-1);
         if (currCountyData) ladData.features[i].properties['color'] = `rgb(${r}, ${g}, 0)`;
