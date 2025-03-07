@@ -105,4 +105,8 @@ h1 {
     margin-top: 2rem;
     width: 100%;
   }
+
+  #flow-box {
+    flex-direction: column;
+  }
 }
