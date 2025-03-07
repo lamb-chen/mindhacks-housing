@@ -1,0 +1,82 @@
+[
+  {
+    "county": "E06000021",
+    "year": 2013,
+    "appliedMajor": 28342,
+    "appliedMinor": 231805,
+    "acceptedMajor": 24673,
+    "acceptedMinor": 195794
+  },
+  {
+    "county": "E06000021",
+    "year": 2014,
+    "appliedMajor": 57575,
+    "appliedMinor": 469416,
+    "acceptedMajor": 49620,
+    "acceptedMinor": 396032
+  },
+  {
+    "county": "E06000021",
+    "year": 2015,
+    "appliedMajor": 59000,
+    "appliedMinor": 487561,
+    "acceptedMajor": 49966,
+    "acceptedMinor": 406681
+  },
+  {
+    "county": "E06000021",
+    "year": 2016,
+    "appliedMajor": 59375,
+    "appliedMinor": 489551,
+    "acceptedMajor": 50792,
+    "acceptedMinor": 405435
+  },
+  {
+    "county": "E06000021",
+    "year": 2017,
+    "appliedMajor": 60534,
+    "appliedMinor": 497034,
+    "acceptedMajor": 51984,
+    "acceptedMinor": 409415
+  },
+  {
+    "county": "E06000021",
+    "year": 2018,
+    "appliedMajor": 59007,
+    "appliedMinor": 483006,
+    "acceptedMajor": 50806,
+    "acceptedMinor": 396771
+  },
+  {
+    "county": "E06000021",
+    "year": 2019,
+    "appliedMajor": 56329,
+    "appliedMinor": 461588,
+    "acceptedMajor": 48550,
+    "acceptedMinor": 379484
+  },
+  {
+    "county": "E06000021",
+    "year": 2020,
+    "appliedMajor": 50190,
+    "appliedMinor": 423600,
+    "acceptedMajor": 43280,
+    "acceptedMinor": 344940
+  },
+  {
+    "county": "E06000021",
+    "year": 2021,
+    "appliedMajor": 47874,
+    "appliedMinor": 406898,
+    "acceptedMajor": 41226,
+    "acceptedMinor": 331648
+  },
+  {
+    "county": "E06000021",
+    "year": 2022,
+    "appliedMajor": 34185,
+    "appliedMinor": 304470,
+    "acceptedMajor": 29381,
+    "acceptedMinor": 247756
+  }
+]

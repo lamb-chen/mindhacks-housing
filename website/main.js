@@ -6,17 +6,27 @@ var map = new mapboxgl.Map({
     center: [-2, 54],
     zoom: 5.5,
     pitch: 0,
+    maxBounds: [
+        [-11, 49], // Southwest coordinates
+        [2, 62]  // Northeast coordinates
+    ]
 });
 
-// Load JSON from '/lad.json' and add it to the map
-const geoJson = fetch('/lad.json')
+map.on('style.load', function() {
+    map.setPitch(0);
+    map.touchZoomRotate.disableRotation();
+});
+
 
 map.on('load', async function () {
-    let data = await (await geoJson).json();
+    let ladData = await (await fetch('/lad.json')).json();
+    let eerData = await (await fetch('/eer.json')).json();
+
+    const key = 'LAD13NM';
 
     map.addSource('uk-counties', {
         type: 'geojson',
-        data
+        data: ladData
     });
 
     map.addLayer({
@@ -24,25 +34,9 @@ map.on('load', async function () {
         'type': 'fill',
         'source': 'uk-counties',
         'paint': {
-            'fill-color': [
-                'case',
-                ['boolean', ['feature-state', 'hover'], false],
-                '#627BC1',
-                '#4464bd'
-            ],
+            'fill-color': '#627BC1',
             'fill-opacity': 0.5,
             'fill-outline-color': '#004080'
-        }
-    });
-
-    map.addLayer({
-        'id': 'uk-counties-borders',
-        'type': 'line',
-        'source': 'uk-counties',
-        'layout': {},
-        'paint': {
-            'line-color': '#004080',
-            'line-width': 2
         }
     });
 
@@ -53,9 +47,8 @@ map.on('load', async function () {
     map.on('click', 'uk-counties-layer', (e) => {
         if (e.features.length > 0) {
             var properties = e.features[0].properties;
-            var infoHtml = '<h3>' + properties["LAD13NM"] + '</h3>';
-            infoHtml += JSON.stringify(properties, null, 2);
-            document.getElementById('county-info').innerHTML = infoHtml;
+            document.getElementById('county-name').innerText = properties[key];
+            document.getElementById('county-info').innerText = JSON.stringify(properties, null, 2);
         }
     });
 });
