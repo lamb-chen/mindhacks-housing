@@ -7,4 +7,5 @@ This site addresses the fundamental question:
 
 More specifically, we map the likelihood of gaining planning permissions for dwellings by local authority. We also overlay possible proxies for constituents’ concerns, to determine whether factors like school overcrowding, increased hospital waiting times, homeowner property value anxiety, or congestion concerns may explain locals’ resistance to planning approvals.        
 
-Interested? Visit our website [here!](https://extraordinary-mooncake-634a3d.netlify.app/))     
+Interested? Visit our website [here!](https://extraordinary-mooncake-634a3d.netlify.app/)  
+
