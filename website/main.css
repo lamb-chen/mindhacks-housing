@@ -57,4 +57,5 @@ h1 {
   vertical-align: top;
   overflow-y: auto;
   padding: 10px;
+  border: 1px solid #ccc;
 }

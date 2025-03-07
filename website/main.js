@@ -21,13 +21,26 @@ map.on('load', async function () {
     let ladData = await (await fetch('/lad.json')).json();
     let countyData = await (await fetch('/county.json')).json();
 
+    // Get average ratio of accepted to applied major applications in the last year
+    let totalAccepted = 0;
+    let totalApplied = 0;
+    for (let i = 0; i < ladData.features.length; i++) {
+        const countyId = ladData.features[i].properties['LAD13CD'];
+        const currCountyData = countyData.filter(({county}) => county === countyId).at(-1);
+        if (currCountyData) {
+            totalAccepted += currCountyData.acceptedMajor;
+            totalApplied += currCountyData.appliedMajor;
+        }
+    }
+    let averageRatio = totalAccepted / totalApplied;
+
     for (let i = 0; i < ladData.features.length; i++) {
         const countyId = ladData.features[i].properties['LAD13CD'];
         const currCountyData = countyData.filter(({county}) => county === countyId).at(-1);
         let ratio = 0.5;
 
-        if (currCountyData) ratio = currCountyData.appliedMajor / currCountyData.acceptedMajor;
-        const g = Math.round(75 * ratio);
+        if (currCountyData) ratio = (currCountyData.appliedMajor / currCountyData.acceptedMajor) - averageRatio;
+        const g = Math.round(255 * ratio);
         const r = Math.round(255 * (1 - ratio));
 
         ladData.features[i].properties['countyInfo'] = countyData.filter(({county}) => county === countyId).at(-1);
