@@ -17,6 +17,10 @@ map.on('style.load', function () {
     map.touchZoomRotate.disableRotation();
 });
 
+map.on('move', function () {
+    if (map.getPitch() !== 0) map.setPitch(0);
+});
+
 map.on('load', async function () {
     let ladData = await (await fetch('/lad.json')).json();
     let countyData = await (await fetch('/county.json')).json();
