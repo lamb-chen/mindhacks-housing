@@ -115,8 +115,26 @@ map.on('load', async function () {
         applicationsChart.update();
     }
 
+    
+    const averages = {
+        schoolCapacity: schoolData.reduce((sum, school) => sum + school.usedCapacityPercent, 0) / schoolData.length,
+        rentToOwnershipRatio: homeOwnershipData.reduce((sum, entry) => {
+            const totalOwned = entry["Owned: Owns outright (number)"] + entry["Owned: Owns with a mortgage or loan or shared ownership (number)"];
+            const totalRented = entry["Rented: Social rented (number)"] + entry["Private rented or lives rent free (number)"];
+            return sum + (totalRented / totalOwned);
+        }, 0) / homeOwnershipData.length,
+        priceChange: priceChangeData.reduce((sum, entry) => parseFloat(sum) + parseFloat(entry["YearlyChange"]), 0) / priceChangeData.length
+    };
+
+    console.log(priceChangeData)
+
+    document.getElementById('school-ave').innerText = `${averages.schoolCapacity.toFixed(1)}%`;
+    document.getElementById('homeownership-ave').innerText = `${(averages.rentToOwnershipRatio * 100).toFixed(1)}%`;
+    document.getElementById('pricechange-ave').innerText = `${averages.priceChange.toFixed(1)}%`;
+
     // Handle click event to display county information
     map.on('click', 'uk-counties-layer', (e) => {
+        
         if (e.features.length > 0) {
             let properties = e.features[0].properties;
             let countyId = properties['LAD13CD'];
@@ -139,27 +157,34 @@ map.on('load', async function () {
             }
             rentToOwnershipRatio = rentToOwnershipRatio;
 
-            if (latestCountyData) {
-                document.getElementById('county-name').innerText = properties[key];
-                document.getElementById('county-year').innerText = `Year: ${latestCountyData.year}`;
-                if (schoolEntry) document.getElementById('school-text').innerText = `School Capacity: ${schoolEntry.usedCapacityPercent.toFixed(1)}%`;
-                else document.getElementById('school-text').innerText = '';
-                if (homeownershipEntry) document.getElementById('homeownership-text').innerText = `Home Ownership to Renting Ratio: ${(rentToOwnershipRatio * 100).toFixed(1)}%`;
-                else document.getElementById('homeownership-text').innerText = '';
-                if (priceChangeDataEntry) document.getElementById('pricechange-text').innerText = `House Price Change: ${priceChangeDataEntry["YearlyChange"]}%`;
-                else document.getElementById('pricechange-text').innerText = '';
-                updateChart(latestCountyData);
-            } else {
-                document.getElementById('county-name').innerText = properties[key];
-                document.getElementById('county-year').innerText = 'No data available';
-                if (schoolEntry) document.getElementById('school-text').innerText = `School Capacity: ${schoolEntry.usedCapacityPercent.toFixed(1)}%`;
-                else document.getElementById('school-text').innerText = '';
-                if (homeownershipEntry) document.getElementById('homeownership-text').innerText = `Home Ownership: ${(rentToOwnershipRatio * 100).toFixed(1)}%`;
-                else document.getElementById('homeownership-text').innerText = '';
-                if (priceChangeDataEntry) document.getElementById('pricechange-text').innerText = `House Price Change: ${priceChangeDataEntry["YearlyChange"]}%`;
-                else document.getElementById('pricechange-text').innerText = '';
-                updateChart(null);
+
+            document.getElementById('county-name').innerText = properties[key];
+            if (latestCountyData) document.getElementById('county-year').innerText = `Year: ${latestCountyData.year}`;
+
+            if (schoolEntry) {
+                document.getElementById('school-text').innerText = `School Capacity: ${schoolEntry.usedCapacityPercent.toFixed(1)}%`;
+                let diff = averages.schoolCapacity - schoolEntry.usedCapacityPercent;
+                let color = diff > 0 ? 'green' : 'red';
+                document.getElementById('school-text').style.color = color;
             }
+            else document.getElementById('school-text').innerText = '';
+
+            if (homeownershipEntry) {
+                document.getElementById('homeownership-text').innerText = `Home Ownership to Renting Ratio: ${(rentToOwnershipRatio * 100).toFixed(1)}%`;
+                let diff = averages.rentToOwnershipRatio - rentToOwnershipRatio;
+                let color = diff > 0 ? 'red' : 'green';
+                document.getElementById('homeownership-text').style.color = color;
+            }
+            else document.getElementById('homeownership-text').innerText = '';
+
+            if (priceChangeDataEntry) {
+                document.getElementById('pricechange-text').innerText = `House Price Change: ${priceChangeDataEntry["YearlyChange"]}%`;
+                let diff = averages.priceChange - priceChangeDataEntry["YearlyChange"];
+                let color = diff > 0 ? 'green' : 'red';
+                document.getElementById('pricechange-text').style.color = color;
+            }
+            else document.getElementById('pricechange-text').innerText = '';
+            updateChart(latestCountyData ?? null);
         }
     });
 });
