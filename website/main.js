@@ -142,16 +142,22 @@ map.on('load', async function () {
             if (latestCountyData) {
                 document.getElementById('county-name').innerText = properties[key];
                 document.getElementById('county-year').innerText = `Year: ${latestCountyData.year}`;
-                if (schoolEntry) document.getElementById('school-text').innerText = `School Capacity: ${schoolEntry.usedCapacityPercent}%`;
-                if (homeownershipEntry) document.getElementById('homeownership-text').innerText = `Home Ownership to Renting Ratio: ${(rentToOwnershipRatio * 100).toFixed(2)}%`;
+                if (schoolEntry) document.getElementById('school-text').innerText = `School Capacity: ${schoolEntry.usedCapacityPercent.toFixed(1)}%`;
+                else document.getElementById('school-text').innerText = '';
+                if (homeownershipEntry) document.getElementById('homeownership-text').innerText = `Home Ownership to Renting Ratio: ${(rentToOwnershipRatio * 100).toFixed(1)}%`;
+                else document.getElementById('homeownership-text').innerText = '';
                 if (priceChangeDataEntry) document.getElementById('pricechange-text').innerText = `House Price Change: ${priceChangeDataEntry["YearlyChange"]}%`;
+                else document.getElementById('pricechange-text').innerText = '';
                 updateChart(latestCountyData);
             } else {
                 document.getElementById('county-name').innerText = properties[key];
                 document.getElementById('county-year').innerText = 'No data available';
-                if (schoolEntry) document.getElementById('school-text').innerText = `School Capacity: ${schoolEntry.usedCapacityPercent}%`;
-                if (homeownershipEntry) document.getElementById('homeownership-text').innerText = `Home Ownership: ${(rentToOwnershipRatio * 100).toFixed(2)}%`;
+                if (schoolEntry) document.getElementById('school-text').innerText = `School Capacity: ${schoolEntry.usedCapacityPercent.toFixed(1)}%`;
+                else document.getElementById('school-text').innerText = '';
+                if (homeownershipEntry) document.getElementById('homeownership-text').innerText = `Home Ownership: ${(rentToOwnershipRatio * 100).toFixed(1)}%`;
+                else document.getElementById('homeownership-text').innerText = '';
                 if (priceChangeDataEntry) document.getElementById('pricechange-text').innerText = `House Price Change: ${priceChangeDataEntry["YearlyChange"]}%`;
+                else document.getElementById('pricechange-text').innerText = '';
                 updateChart(null);
             }
         }
