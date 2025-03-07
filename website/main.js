@@ -20,7 +20,7 @@ map.on('style.load', function () {
 map.on('load', async function () {
     let ladData = await (await fetch('/lad.json')).json();
     let countyData = await (await fetch('/county.json')).json();
-    let schoolData = await (await fetch('/schools.json')).json(); // Load school data
+    let schoolData = await (await fetch('/schools.json')).json();
 
     const key = 'LAD13NM';
     let currentView = 'housing'; // Default view
@@ -29,7 +29,7 @@ map.on('load', async function () {
     let totalAccepted = 0, totalApplied = 0;
     for (let i = 0; i < ladData.features.length; i++) {
         const countyId = ladData.features[i].properties['LAD13CD'];
-        const currCountyData = countyData.filter(({county}) => county === countyId).at(-1);
+        const currCountyData = countyData.filter(({ county }) => county === countyId).at(-1);
         if (currCountyData) {
             totalAccepted += currCountyData.acceptedMajor;
             totalApplied += currCountyData.appliedMajor;
@@ -40,11 +40,11 @@ map.on('load', async function () {
     // Assign color based on acceptance ratio
     for (let i = 0; i < ladData.features.length; i++) {
         const countyId = ladData.features[i].properties['LAD13CD'];
-        const currCountyData = countyData.filter(({county}) => county === countyId).at(-1);
+        const currCountyData = countyData.filter(({ county }) => county === countyId).at(-1);
         let ratio = 0.5;
         if (currCountyData) ratio = (currCountyData.appliedMajor / currCountyData.acceptedMajor) - averageRatio;
-        const g = Math.round(255 * ratio);
-        const r = Math.round(255 * (1 - ratio));
+        const r = Math.round(255 * ratio);
+        const g = Math.round(255 * (1 - ratio));
         ladData.features[i].properties['countyInfo'] = currCountyData;
         ladData.features[i].properties['color'] = currCountyData ? `rgb(${r}, ${g}, 0)` : '#d3d3d3';
     }
@@ -88,7 +88,10 @@ map.on('load', async function () {
             plugins: {
                 datalabels: {
                     color: '#fff',
-                    font: { weight: 'bold', size: 16 },
+                    font: {
+                        weight: 'bold',
+                        size: 16
+                    },
                     formatter: (value, context) => {
                         let total = context.dataset.data.reduce((sum, val) => sum + val, 0);
                         return total ? `${Math.round((value / total) * 100)}%` : '0%';
@@ -96,79 +99,49 @@ map.on('load', async function () {
                 }
             }
         }
-    });
+    })
 
-    function updateChart(data) {
-        if (currentView === 'housing' && data) {
-            let applied = data.appliedMajor;
-            let accepted = data.acceptedMajor;
+    function updateChart(countyInfo) {
+        if (countyInfo) {
+            let applied = countyInfo.appliedMajor;
+            let accepted = countyInfo.acceptedMajor;
             let rejected = applied - accepted;
 
-            applicationsChart.data.labels = ['Rejected', 'Accepted'];
-            applicationsChart.data.datasets[0].label = 'Major Applications';
             applicationsChart.data.datasets[0].data = [rejected, accepted];
-            applicationsChart.data.datasets[0].backgroundColor = ['#FF5733', '#33FF57'];
-        } 
-        else if (currentView === 'schools' && data) {
-            let withinCapacity = Math.min(100, data.usedCapacityPercent);
-            let overCapacity = Math.max(0, data.usedCapacityPercent - 100);
-
-            applicationsChart.data.labels = ['Within Capacity', 'Over Capacity'];
-            applicationsChart.data.datasets[0].label = 'School Capacity';
-            applicationsChart.data.datasets[0].data = [withinCapacity, overCapacity];
-            applicationsChart.data.datasets[0].backgroundColor = ['#33FF57', '#FF5733'];
-        } 
-        else {
-            applicationsChart.data.labels = [];
-            applicationsChart.data.datasets[0].data = [];
+        } else {
+            applicationsChart.data.datasets[0].data = [0, 0];
         }
-        console.log(applicationsChart.data.datasets[0].data);
         applicationsChart.update();
     }
 
-    function displayData(properties) {
-        let countyId = properties['LAD13CD'];
-        let countyName = properties[key];
-
-        if (currentView === 'housing') {
-            let countyEntries = countyData.filter(({ county }) => county === countyId);
-            let latestCountyData = countyEntries.reduce((latest, current) => 
-                current.year > (latest?.year || 0) ? current : latest, null);
-
-            if (latestCountyData) {
-                document.getElementById('county-name').innerText = countyName;
-                document.getElementById('county-year').innerText = `Year: ${latestCountyData.year}`;
-                document.getElementById('info-text').innerText = 
-                    `Major Applied: ${latestCountyData.appliedMajor}, Accepted: ${latestCountyData.acceptedMajor}`;
-                updateChart(latestCountyData);
-            }
-        } else if (currentView === 'schools') {
-            let schoolEntry = schoolData.find(school => school.localAuthority === countyName);
-            
-            if (schoolEntry) {
-                document.getElementById('county-name').innerText = countyName;
-                // document.getElementById('county-year').innerText = `Region: ${schoolEntry.localAuthority}`;
-                document.getElementById('info-text').innerText = 
-                    `Admissions: ${schoolEntry.admissionNumbers}, Offers: ${schoolEntry.totalOffers} \n Capacity: ${schoolEntry.usedCapacityPercent}%`;
-                updateChart(schoolEntry);
-            }
-        }
-    }
-
+    // Handle click event to display county information
     map.on('click', 'uk-counties-layer', (e) => {
         if (e.features.length > 0) {
-            displayData(e.features[0].properties);
+            let properties = e.features[0].properties;
+            let countyId = properties['LAD13CD'];
+
+            // Get the latest available data for this county
+            let countyEntries = countyData.filter(({ county }) => county === countyId);
+            let latestCountyData = countyEntries.reduce((latest, current) =>
+                current.year > (latest?.year || 0) ? current : latest, null);
+
+            const countyName = properties[key];
+            const schoolEntry = schoolData.find(school => school.localAuthority === countyName);
+
+            if (latestCountyData) {
+                document.getElementById('county-name').innerText = properties[key];
+                document.getElementById('county-year').innerText = `Year: ${latestCountyData.year}`;
+                if (schoolEntry) document.getElementById('info-text').innerText = `Admissions: ${schoolEntry.admissionNumbers}, Offers: ${schoolEntry.totalOffers} \n Capacity: ${schoolEntry.usedCapacityPercent}%`;
+
+                updateChart(latestCountyData);
+            } else {
+                document.getElementById('county-name').innerText = properties[key];
+                document.getElementById('county-year').innerText = 'No data available';
+                if (schoolEntry) document.getElementById('info-text').innerText = 
+                    `Admissions: ${schoolEntry.admissionNumbers}, Offers: ${schoolEntry.totalOffers} \n Capacity: ${schoolEntry.usedCapacityPercent}%`;
+
+                updateChart(null);
+            }
         }
-    });
-
-    // Toggle between Housing & Schools
-    document.getElementById('toggle-housing').addEventListener('click', () => {
-        currentView = 'housing';
-        document.getElementById('chart-title').innerText = 'Housing Data';
-    });
-
-    document.getElementById('toggle-schools').addEventListener('click', () => {
-        currentView = 'schools';
-        document.getElementById('chart-title').innerText = 'School Data';
     });
 });
