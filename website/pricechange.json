@@ -1,0 +1,3242 @@
+[
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Aberdeenshire",
+        "AreaCode": "S12000034",
+        "AveragePrice": "199959",
+        "Index": "100",
+        "YearlyChange": "7.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Adur",
+        "AreaCode": "E07000223",
+        "AveragePrice": "367422",
+        "Index": "147.2",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Amber Valley",
+        "AreaCode": "E07000032",
+        "AveragePrice": "212755",
+        "Index": "147.8",
+        "YearlyChange": "3.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Angus",
+        "AreaCode": "S12000041",
+        "AveragePrice": "167395",
+        "Index": "121",
+        "YearlyChange": "9.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Antrim and Newtownabbey",
+        "AreaCode": "N09000001",
+        "AveragePrice": "174227",
+        "Index": "151.6",
+        "YearlyChange": "10"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Ards and North Down",
+        "AreaCode": "N09000011",
+        "AveragePrice": "196581",
+        "Index": "146.5",
+        "YearlyChange": "12.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Argyll and Bute",
+        "AreaCode": "S12000035",
+        "AveragePrice": "183259",
+        "Index": "136",
+        "YearlyChange": "18"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Armagh City Banbridge and Craigavon",
+        "AreaCode": "N09000002",
+        "AveragePrice": "150778",
+        "Index": "153",
+        "YearlyChange": "11.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Arun",
+        "AreaCode": "E07000224",
+        "AveragePrice": "334257",
+        "Index": "142",
+        "YearlyChange": "7.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Ashfield",
+        "AreaCode": "E07000170",
+        "AveragePrice": "183677",
+        "Index": "158.1",
+        "YearlyChange": "12.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Ashford",
+        "AreaCode": "E07000105",
+        "AveragePrice": "344273",
+        "Index": "145.3",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Babergh",
+        "AreaCode": "E07000200",
+        "AveragePrice": "326659",
+        "Index": "143.4",
+        "YearlyChange": "9.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Barking and Dagenham",
+        "AreaCode": "E09000002",
+        "AveragePrice": "332345",
+        "Index": "151",
+        "YearlyChange": "7.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Barnet",
+        "AreaCode": "E09000003",
+        "AveragePrice": "597335",
+        "Index": "129.5",
+        "YearlyChange": "8.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Barnsley",
+        "AreaCode": "E08000016",
+        "AveragePrice": "159748",
+        "Index": "151.8",
+        "YearlyChange": "14.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Basildon",
+        "AreaCode": "E07000066",
+        "AveragePrice": "360028",
+        "Index": "158.1",
+        "YearlyChange": "8.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Basingstoke and Deane",
+        "AreaCode": "E07000084",
+        "AveragePrice": "343922",
+        "Index": "136.9",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bassetlaw",
+        "AreaCode": "E07000171",
+        "AveragePrice": "195750",
+        "Index": "153.5",
+        "YearlyChange": "7.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bath and North East Somerset",
+        "AreaCode": "E06000022",
+        "AveragePrice": "423069",
+        "Index": "150.6",
+        "YearlyChange": "14.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bedford",
+        "AreaCode": "E06000055",
+        "AveragePrice": "327062",
+        "Index": "150.2",
+        "YearlyChange": "9.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Belfast",
+        "AreaCode": "N09000003",
+        "AveragePrice": "156364",
+        "Index": "148",
+        "YearlyChange": "6.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bexley",
+        "AreaCode": "E09000004",
+        "AveragePrice": "398990",
+        "Index": "152.4",
+        "YearlyChange": "8.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Birmingham",
+        "AreaCode": "E08000025",
+        "AveragePrice": "227439",
+        "Index": "157.4",
+        "YearlyChange": "6.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Blaby",
+        "AreaCode": "E07000129",
+        "AveragePrice": "279820",
+        "Index": "159.8",
+        "YearlyChange": "8.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Blackburn with Darwen",
+        "AreaCode": "E06000008",
+        "AveragePrice": "138310",
+        "Index": "139.6",
+        "YearlyChange": "6.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Blackpool",
+        "AreaCode": "E06000009",
+        "AveragePrice": "134609",
+        "Index": "137.6",
+        "YearlyChange": "10.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Blaenau Gwent",
+        "AreaCode": "W06000019",
+        "AveragePrice": "128043",
+        "Index": "170.7",
+        "YearlyChange": "17.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bolsover",
+        "AreaCode": "E07000033",
+        "AveragePrice": "171720",
+        "Index": "168.8",
+        "YearlyChange": "13.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bolton",
+        "AreaCode": "E08000001",
+        "AveragePrice": "178802",
+        "Index": "158.2",
+        "YearlyChange": "9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Boston",
+        "AreaCode": "E07000136",
+        "AveragePrice": "187353",
+        "Index": "144",
+        "YearlyChange": "14"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bournemouth Christchurch and Poole",
+        "AreaCode": "E06000058",
+        "AveragePrice": "333903",
+        "Index": "140.8",
+        "YearlyChange": "9.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bracknell Forest",
+        "AreaCode": "E06000036",
+        "AveragePrice": "380749",
+        "Index": "133",
+        "YearlyChange": "9.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bradford",
+        "AreaCode": "E08000032",
+        "AveragePrice": "167145",
+        "Index": "140",
+        "YearlyChange": "5.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Braintree",
+        "AreaCode": "E07000067",
+        "AveragePrice": "320062",
+        "Index": "149",
+        "YearlyChange": "9.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Breckland",
+        "AreaCode": "E07000143",
+        "AveragePrice": "272327",
+        "Index": "148.8",
+        "YearlyChange": "12"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Brent",
+        "AreaCode": "E09000005",
+        "AveragePrice": "516404",
+        "Index": "122.1",
+        "YearlyChange": "4.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Brentwood",
+        "AreaCode": "E07000068",
+        "AveragePrice": "471968",
+        "Index": "144.9",
+        "YearlyChange": "6.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bridgend",
+        "AreaCode": "W06000013",
+        "AveragePrice": "202833",
+        "Index": "158.2",
+        "YearlyChange": "10.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Brighton and Hove",
+        "AreaCode": "E06000043",
+        "AveragePrice": "436257",
+        "Index": "147.4",
+        "YearlyChange": "10.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Broadland",
+        "AreaCode": "E07000144",
+        "AveragePrice": "311626",
+        "Index": "148.1",
+        "YearlyChange": "12.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bromley",
+        "AreaCode": "E09000006",
+        "AveragePrice": "502723",
+        "Index": "134.8",
+        "YearlyChange": "7.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bromsgrove",
+        "AreaCode": "E07000234",
+        "AveragePrice": "338297",
+        "Index": "147.9",
+        "YearlyChange": "8.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Broxbourne",
+        "AreaCode": "E07000095",
+        "AveragePrice": "392833",
+        "Index": "141.9",
+        "YearlyChange": "7.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Broxtowe",
+        "AreaCode": "E07000172",
+        "AveragePrice": "237424",
+        "Index": "160.8",
+        "YearlyChange": "10.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Buckinghamshire",
+        "AreaCode": "E06000060",
+        "AveragePrice": "442153",
+        "Index": "134.5",
+        "YearlyChange": "6.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Burnley",
+        "AreaCode": "E07000117",
+        "AveragePrice": "114955",
+        "Index": "158.2",
+        "YearlyChange": "9.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Bury",
+        "AreaCode": "E08000002",
+        "AveragePrice": "233852",
+        "Index": "168.9",
+        "YearlyChange": "8.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Caerphilly",
+        "AreaCode": "W06000018",
+        "AveragePrice": "177527",
+        "Index": "157",
+        "YearlyChange": "10.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Calderdale",
+        "AreaCode": "E08000033",
+        "AveragePrice": "170478",
+        "Index": "136.5",
+        "YearlyChange": "1.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cambridge",
+        "AreaCode": "E07000008",
+        "AveragePrice": "475755",
+        "Index": "126.8",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cambridgeshire",
+        "AreaCode": "E10000003",
+        "AveragePrice": "336439",
+        "Index": "142.8",
+        "YearlyChange": "10"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Camden",
+        "AreaCode": "E09000007",
+        "AveragePrice": "840608",
+        "Index": "109.2",
+        "YearlyChange": "2.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cannock Chase",
+        "AreaCode": "E07000192",
+        "AveragePrice": "216433",
+        "Index": "154.7",
+        "YearlyChange": "11.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Canterbury",
+        "AreaCode": "E07000106",
+        "AveragePrice": "342459",
+        "Index": "144",
+        "YearlyChange": "6.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cardiff",
+        "AreaCode": "W06000015",
+        "AveragePrice": "255092",
+        "Index": "145.1",
+        "YearlyChange": "9.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Carmarthenshire",
+        "AreaCode": "W06000010",
+        "AveragePrice": "195293",
+        "Index": "152.9",
+        "YearlyChange": "12.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Castle Point",
+        "AreaCode": "E07000069",
+        "AveragePrice": "367860",
+        "Index": "158.4",
+        "YearlyChange": "11.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Causeway Coast and Glens",
+        "AreaCode": "N09000004",
+        "AveragePrice": "189171",
+        "Index": "175.2",
+        "YearlyChange": "10.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Central Bedfordshire",
+        "AreaCode": "E06000056",
+        "AveragePrice": "339620",
+        "Index": "144.5",
+        "YearlyChange": "8.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Ceredigion",
+        "AreaCode": "W06000008",
+        "AveragePrice": "233860",
+        "Index": "135.2",
+        "YearlyChange": "12.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Charnwood",
+        "AreaCode": "E07000130",
+        "AveragePrice": "270788",
+        "Index": "151",
+        "YearlyChange": "10.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Chelmsford",
+        "AreaCode": "E07000070",
+        "AveragePrice": "392431",
+        "Index": "148.1",
+        "YearlyChange": "12.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cheltenham",
+        "AreaCode": "E07000078",
+        "AveragePrice": "328775",
+        "Index": "147.7",
+        "YearlyChange": "9.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cherwell",
+        "AreaCode": "E07000177",
+        "AveragePrice": "323772",
+        "Index": "128.8",
+        "YearlyChange": "5.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cheshire East",
+        "AreaCode": "E06000049",
+        "AveragePrice": "271809",
+        "Index": "140.3",
+        "YearlyChange": "5.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cheshire West and Chester",
+        "AreaCode": "E06000050",
+        "AveragePrice": "252679",
+        "Index": "141.1",
+        "YearlyChange": "6.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Chesterfield",
+        "AreaCode": "E07000034",
+        "AveragePrice": "190822",
+        "Index": "146.1",
+        "YearlyChange": "7.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Chichester",
+        "AreaCode": "E07000225",
+        "AveragePrice": "423359",
+        "Index": "130.9",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Chorley",
+        "AreaCode": "E07000118",
+        "AveragePrice": "215476",
+        "Index": "141",
+        "YearlyChange": "3.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Aberdeen",
+        "AreaCode": "S12000033",
+        "AveragePrice": "144161",
+        "Index": "74",
+        "YearlyChange": "1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Bristol",
+        "AreaCode": "E06000023",
+        "AveragePrice": "337801",
+        "Index": "160.5",
+        "YearlyChange": "7.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Derby",
+        "AreaCode": "E06000015",
+        "AveragePrice": "195847",
+        "Index": "144.7",
+        "YearlyChange": "8.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Dundee",
+        "AreaCode": "S12000042",
+        "AveragePrice": "147573",
+        "Index": "127.5",
+        "YearlyChange": "9.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Edinburgh",
+        "AreaCode": "S12000036",
+        "AveragePrice": "315049",
+        "Index": "142.6",
+        "YearlyChange": "6.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Glasgow",
+        "AreaCode": "S12000049",
+        "AveragePrice": "169757",
+        "Index": "160.1",
+        "YearlyChange": "11.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Kingston upon Hull",
+        "AreaCode": "E06000010",
+        "AveragePrice": "137962",
+        "Index": "147.7",
+        "YearlyChange": "8.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of London",
+        "AreaCode": "E09000001",
+        "AveragePrice": "885382",
+        "Index": "113",
+        "YearlyChange": "17.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Nottingham",
+        "AreaCode": "E06000018",
+        "AveragePrice": "189182",
+        "Index": "167.2",
+        "YearlyChange": "11.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Peterborough",
+        "AreaCode": "E06000031",
+        "AveragePrice": "228533",
+        "Index": "153.1",
+        "YearlyChange": "10.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Plymouth",
+        "AreaCode": "E06000026",
+        "AveragePrice": "218998",
+        "Index": "141.1",
+        "YearlyChange": "14.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "City of Westminster",
+        "AreaCode": "E09000033",
+        "AveragePrice": "1069871",
+        "Index": "109.5",
+        "YearlyChange": "17.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Clackmannanshire",
+        "AreaCode": "S12000005",
+        "AveragePrice": "165409",
+        "Index": "155.5",
+        "YearlyChange": "14.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Colchester",
+        "AreaCode": "E07000071",
+        "AveragePrice": "304678",
+        "Index": "149.6",
+        "YearlyChange": "12.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Conwy",
+        "AreaCode": "W06000003",
+        "AveragePrice": "218657",
+        "Index": "153.4",
+        "YearlyChange": "10.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cornwall",
+        "AreaCode": "E06000052",
+        "AveragePrice": "299479",
+        "Index": "149",
+        "YearlyChange": "11"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cotswold",
+        "AreaCode": "E07000079",
+        "AveragePrice": "463762",
+        "Index": "146.5",
+        "YearlyChange": "12.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "County Durham",
+        "AreaCode": "E06000047",
+        "AveragePrice": "125349",
+        "Index": "132.9",
+        "YearlyChange": "4.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Coventry",
+        "AreaCode": "E08000026",
+        "AveragePrice": "218223",
+        "Index": "153.1",
+        "YearlyChange": "6.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Crawley",
+        "AreaCode": "E07000226",
+        "AveragePrice": "309867",
+        "Index": "134.8",
+        "YearlyChange": "8.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Croydon",
+        "AreaCode": "E09000008",
+        "AveragePrice": "403249",
+        "Index": "139.6",
+        "YearlyChange": "3.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Cumberland",
+        "AreaCode": "E06000063",
+        "AveragePrice": "160649",
+        "Index": "128.7",
+        "YearlyChange": "5.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Dacorum",
+        "AreaCode": "E07000096",
+        "AveragePrice": "452441",
+        "Index": "142.2",
+        "YearlyChange": "6.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Darlington",
+        "AreaCode": "E06000005",
+        "AveragePrice": "156797",
+        "Index": "127.6",
+        "YearlyChange": "7.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Dartford",
+        "AreaCode": "E07000107",
+        "AveragePrice": "337356",
+        "Index": "147.2",
+        "YearlyChange": "7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Denbighshire",
+        "AreaCode": "W06000004",
+        "AveragePrice": "196892",
+        "Index": "145.2",
+        "YearlyChange": "9.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Derbyshire",
+        "AreaCode": "E10000007",
+        "AveragePrice": "219929",
+        "Index": "149.5",
+        "YearlyChange": "8.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Derbyshire Dales",
+        "AreaCode": "E07000035",
+        "AveragePrice": "316773",
+        "Index": "140",
+        "YearlyChange": "8.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Derry City and Strabane",
+        "AreaCode": "N09000005",
+        "AveragePrice": "150123",
+        "Index": "158.6",
+        "YearlyChange": "11.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Devon",
+        "AreaCode": "E10000008",
+        "AveragePrice": "314450",
+        "Index": "140.5",
+        "YearlyChange": "10.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Doncaster",
+        "AreaCode": "E08000017",
+        "AveragePrice": "165202",
+        "Index": "148.1",
+        "YearlyChange": "9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Dorset",
+        "AreaCode": "E06000059",
+        "AveragePrice": "352148",
+        "Index": "143.6",
+        "YearlyChange": "13.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Dover",
+        "AreaCode": "E07000108",
+        "AveragePrice": "291921",
+        "Index": "152.6",
+        "YearlyChange": "8.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Dudley",
+        "AreaCode": "E08000027",
+        "AveragePrice": "221899",
+        "Index": "156.9",
+        "YearlyChange": "9.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Dumfries and Galloway",
+        "AreaCode": "S12000006",
+        "AveragePrice": "164042",
+        "Index": "136.6",
+        "YearlyChange": "16"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Ealing",
+        "AreaCode": "E09000009",
+        "AveragePrice": "528390",
+        "Index": "128.1",
+        "YearlyChange": "5.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Ayrshire",
+        "AreaCode": "S12000008",
+        "AveragePrice": "124316",
+        "Index": "137.8",
+        "YearlyChange": "20.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Cambridgeshire",
+        "AreaCode": "E07000009",
+        "AveragePrice": "317020",
+        "Index": "142.5",
+        "YearlyChange": "8.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Devon",
+        "AreaCode": "E07000040",
+        "AveragePrice": "329794",
+        "Index": "136",
+        "YearlyChange": "7.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Dunbartonshire",
+        "AreaCode": "S12000045",
+        "AveragePrice": "261554",
+        "Index": "147.7",
+        "YearlyChange": "10.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Hampshire",
+        "AreaCode": "E07000085",
+        "AveragePrice": "422759",
+        "Index": "137.5",
+        "YearlyChange": "8.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Hertfordshire",
+        "AreaCode": "E07000242",
+        "AveragePrice": "422694",
+        "Index": "136.1",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Lindsey",
+        "AreaCode": "E07000137",
+        "AveragePrice": "221672",
+        "Index": "156.5",
+        "YearlyChange": "14.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Lothian",
+        "AreaCode": "S12000010",
+        "AveragePrice": "278249",
+        "Index": "148.2",
+        "YearlyChange": "5.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Midlands",
+        "AreaCode": "E12000004",
+        "AveragePrice": "239933",
+        "Index": "156.1",
+        "YearlyChange": "7.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Renfrewshire",
+        "AreaCode": "S12000011",
+        "AveragePrice": "280012",
+        "Index": "153.3",
+        "YearlyChange": "13.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Riding of Yorkshire",
+        "AreaCode": "E06000011",
+        "AveragePrice": "213820",
+        "Index": "141",
+        "YearlyChange": "6.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Staffordshire",
+        "AreaCode": "E07000193",
+        "AveragePrice": "216777",
+        "Index": "138.3",
+        "YearlyChange": "5.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Suffolk",
+        "AreaCode": "E07000244",
+        "AveragePrice": "295476",
+        "Index": "151.2",
+        "YearlyChange": "11.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East Sussex",
+        "AreaCode": "E10000011",
+        "AveragePrice": "342807",
+        "Index": "153.8",
+        "YearlyChange": "12.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "East of England",
+        "AreaCode": "E12000006",
+        "AveragePrice": "338673",
+        "Index": "148.4",
+        "YearlyChange": "7.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Eastbourne",
+        "AreaCode": "E07000061",
+        "AveragePrice": "303715",
+        "Index": "156",
+        "YearlyChange": "12"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Eastleigh",
+        "AreaCode": "E07000086",
+        "AveragePrice": "331032",
+        "Index": "144.7",
+        "YearlyChange": "8.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Elmbridge",
+        "AreaCode": "E07000207",
+        "AveragePrice": "674387",
+        "Index": "127.7",
+        "YearlyChange": "8.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Enfield",
+        "AreaCode": "E09000010",
+        "AveragePrice": "445275",
+        "Index": "140.9",
+        "YearlyChange": "6.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "England",
+        "AreaCode": "E92000001",
+        "AveragePrice": "297750",
+        "Index": "146.8",
+        "YearlyChange": "5.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "England and Wales",
+        "AreaCode": "K04000001",
+        "AveragePrice": "293082",
+        "Index": "147.3",
+        "YearlyChange": "5.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Epping Forest",
+        "AreaCode": "E07000072",
+        "AveragePrice": "508065",
+        "Index": "136.2",
+        "YearlyChange": "7.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Epsom and Ewell",
+        "AreaCode": "E07000208",
+        "AveragePrice": "521359",
+        "Index": "135",
+        "YearlyChange": "7.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Erewash",
+        "AreaCode": "E07000036",
+        "AveragePrice": "209659",
+        "Index": "158.2",
+        "YearlyChange": "10.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Essex",
+        "AreaCode": "E10000012",
+        "AveragePrice": "357009",
+        "Index": "149.3",
+        "YearlyChange": "9.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Exeter",
+        "AreaCode": "E07000041",
+        "AveragePrice": "305274",
+        "Index": "138.7",
+        "YearlyChange": "11"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Falkirk",
+        "AreaCode": "S12000014",
+        "AveragePrice": "163556",
+        "Index": "157.3",
+        "YearlyChange": "16.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Fareham",
+        "AreaCode": "E07000087",
+        "AveragePrice": "354627",
+        "Index": "148.2",
+        "YearlyChange": "11.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Fenland",
+        "AreaCode": "E07000010",
+        "AveragePrice": "232267",
+        "Index": "157.3",
+        "YearlyChange": "13.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Fermanagh and Omagh",
+        "AreaCode": "N09000006",
+        "AveragePrice": "153456",
+        "Index": "160.1",
+        "YearlyChange": "9.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Fife",
+        "AreaCode": "S12000047",
+        "AveragePrice": "164874",
+        "Index": "141.2",
+        "YearlyChange": "11.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Flintshire",
+        "AreaCode": "W06000005",
+        "AveragePrice": "206308",
+        "Index": "141.3",
+        "YearlyChange": "9.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Folkestone and Hythe",
+        "AreaCode": "E07000112",
+        "AveragePrice": "310426",
+        "Index": "155.5",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Forest of Dean",
+        "AreaCode": "E07000080",
+        "AveragePrice": "288316",
+        "Index": "152.7",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Fylde",
+        "AreaCode": "E07000119",
+        "AveragePrice": "220304",
+        "Index": "121.6",
+        "YearlyChange": "3.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Gateshead",
+        "AreaCode": "E08000037",
+        "AveragePrice": "154182",
+        "Index": "129.1",
+        "YearlyChange": "8.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Gedling",
+        "AreaCode": "E07000173",
+        "AveragePrice": "235868",
+        "Index": "162.2",
+        "YearlyChange": "8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Gloucester",
+        "AreaCode": "E07000081",
+        "AveragePrice": "249140",
+        "Index": "154.7",
+        "YearlyChange": "11.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Gloucestershire",
+        "AreaCode": "E10000013",
+        "AveragePrice": "317136",
+        "Index": "148",
+        "YearlyChange": "9.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Gosport",
+        "AreaCode": "E07000088",
+        "AveragePrice": "251388",
+        "Index": "151.1",
+        "YearlyChange": "9.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Gravesham",
+        "AreaCode": "E07000109",
+        "AveragePrice": "327137",
+        "Index": "154.7",
+        "YearlyChange": "8.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Great Britain",
+        "AreaCode": "K03000001",
+        "AveragePrice": "283310",
+        "Index": "146.8",
+        "YearlyChange": "6.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Great Yarmouth",
+        "AreaCode": "E07000145",
+        "AveragePrice": "221163",
+        "Index": "158.8",
+        "YearlyChange": "14.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Greater Manchester",
+        "AreaCode": "E11000001",
+        "AveragePrice": "227509",
+        "Index": "168.8",
+        "YearlyChange": "10.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Greenwich",
+        "AreaCode": "E09000011",
+        "AveragePrice": "446769",
+        "Index": "140.7",
+        "YearlyChange": "5.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Guildford",
+        "AreaCode": "E07000209",
+        "AveragePrice": "494640",
+        "Index": "131.6",
+        "YearlyChange": "6.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Gwynedd",
+        "AreaCode": "W06000002",
+        "AveragePrice": "205453",
+        "Index": "151",
+        "YearlyChange": "11.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hackney",
+        "AreaCode": "E09000012",
+        "AveragePrice": "579777",
+        "Index": "123.5",
+        "YearlyChange": "3.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Halton",
+        "AreaCode": "E06000006",
+        "AveragePrice": "181579",
+        "Index": "151.9",
+        "YearlyChange": "9.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hammersmith and Fulham",
+        "AreaCode": "E09000013",
+        "AveragePrice": "782908",
+        "Index": "106.9",
+        "YearlyChange": "4.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hampshire",
+        "AreaCode": "E10000014",
+        "AveragePrice": "366882",
+        "Index": "141.7",
+        "YearlyChange": "9.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Harborough",
+        "AreaCode": "E07000131",
+        "AveragePrice": "332774",
+        "Index": "144.5",
+        "YearlyChange": "8.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Haringey",
+        "AreaCode": "E09000014",
+        "AveragePrice": "567985",
+        "Index": "124.6",
+        "YearlyChange": "5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Harlow",
+        "AreaCode": "E07000073",
+        "AveragePrice": "300419",
+        "Index": "144.3",
+        "YearlyChange": "10.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Harrow",
+        "AreaCode": "E09000015",
+        "AveragePrice": "531432",
+        "Index": "136",
+        "YearlyChange": "8.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hart",
+        "AreaCode": "E07000089",
+        "AveragePrice": "464950",
+        "Index": "132.3",
+        "YearlyChange": "7.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hartlepool",
+        "AreaCode": "E06000001",
+        "AveragePrice": "134896",
+        "Index": "135.9",
+        "YearlyChange": "6.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hastings",
+        "AreaCode": "E07000062",
+        "AveragePrice": "269013",
+        "Index": "174.4",
+        "YearlyChange": "10.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Havant",
+        "AreaCode": "E07000090",
+        "AveragePrice": "317093",
+        "Index": "148.3",
+        "YearlyChange": "7.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Havering",
+        "AreaCode": "E09000016",
+        "AveragePrice": "412276",
+        "Index": "148.5",
+        "YearlyChange": "7.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Herefordshire",
+        "AreaCode": "E06000019",
+        "AveragePrice": "287567",
+        "Index": "141.9",
+        "YearlyChange": "12.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hertfordshire",
+        "AreaCode": "E10000015",
+        "AveragePrice": "443759",
+        "Index": "139.7",
+        "YearlyChange": "6.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hertsmere",
+        "AreaCode": "E07000098",
+        "AveragePrice": "503315",
+        "Index": "133.9",
+        "YearlyChange": "3.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "High Peak",
+        "AreaCode": "E07000037",
+        "AveragePrice": "252005",
+        "Index": "156.6",
+        "YearlyChange": "14.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Highland",
+        "AreaCode": "S12000017",
+        "AveragePrice": "203112",
+        "Index": "137.5",
+        "YearlyChange": "11.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hillingdon",
+        "AreaCode": "E09000017",
+        "AveragePrice": "449913",
+        "Index": "136.1",
+        "YearlyChange": "5.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hinckley and Bosworth",
+        "AreaCode": "E07000132",
+        "AveragePrice": "276901",
+        "Index": "161",
+        "YearlyChange": "11.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Horsham",
+        "AreaCode": "E07000227",
+        "AveragePrice": "414232",
+        "Index": "130.3",
+        "YearlyChange": "9.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hounslow",
+        "AreaCode": "E09000018",
+        "AveragePrice": "443448",
+        "Index": "132.3",
+        "YearlyChange": "4.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Huntingdonshire",
+        "AreaCode": "E07000011",
+        "AveragePrice": "305839",
+        "Index": "150.6",
+        "YearlyChange": "11.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Hyndburn",
+        "AreaCode": "E07000120",
+        "AveragePrice": "125523",
+        "Index": "147.3",
+        "YearlyChange": "12"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Inner London",
+        "AreaCode": "E13000001",
+        "AveragePrice": "611134",
+        "Index": "119.2",
+        "YearlyChange": "5.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Inverclyde",
+        "AreaCode": "S12000018",
+        "AveragePrice": "114302",
+        "Index": "119.2",
+        "YearlyChange": "0.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Ipswich",
+        "AreaCode": "E07000202",
+        "AveragePrice": "233387",
+        "Index": "150.7",
+        "YearlyChange": "11"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Isle of Anglesey",
+        "AreaCode": "W06000001",
+        "AveragePrice": "229002",
+        "Index": "155",
+        "YearlyChange": "12.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Isle of Wight",
+        "AreaCode": "E06000046",
+        "AveragePrice": "283882",
+        "Index": "154.9",
+        "YearlyChange": "13.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Islington",
+        "AreaCode": "E09000019",
+        "AveragePrice": "692494",
+        "Index": "112.4",
+        "YearlyChange": "6.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Kensington and Chelsea",
+        "AreaCode": "E09000020",
+        "AveragePrice": "1507017",
+        "Index": "114.7",
+        "YearlyChange": "25.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Kent",
+        "AreaCode": "E10000016",
+        "AveragePrice": "342727",
+        "Index": "149.8",
+        "YearlyChange": "9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "King's Lynn and West Norfolk ",
+        "AreaCode": "E07000146",
+        "AveragePrice": "265782",
+        "Index": "154.6",
+        "YearlyChange": "10.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Kingston upon Thames",
+        "AreaCode": "E09000021",
+        "AveragePrice": "542429",
+        "Index": "127.1",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Kirklees",
+        "AreaCode": "E08000034",
+        "AveragePrice": "187661",
+        "Index": "145.3",
+        "YearlyChange": "8.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Knowsley",
+        "AreaCode": "E08000011",
+        "AveragePrice": "168811",
+        "Index": "156.9",
+        "YearlyChange": "11.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Lambeth",
+        "AreaCode": "E09000022",
+        "AveragePrice": "531812",
+        "Index": "120.5",
+        "YearlyChange": "-0.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Lancashire",
+        "AreaCode": "E10000017",
+        "AveragePrice": "178567",
+        "Index": "138.7",
+        "YearlyChange": "7.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Lancaster",
+        "AreaCode": "E07000121",
+        "AveragePrice": "194056",
+        "Index": "140.6",
+        "YearlyChange": "9.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Leeds",
+        "AreaCode": "E08000035",
+        "AveragePrice": "225886",
+        "Index": "150.9",
+        "YearlyChange": "6.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Leicester",
+        "AreaCode": "E06000016",
+        "AveragePrice": "221774",
+        "Index": "168.6",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Leicestershire",
+        "AreaCode": "E10000018",
+        "AveragePrice": "276127",
+        "Index": "151.5",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Lewes",
+        "AreaCode": "E07000063",
+        "AveragePrice": "380037",
+        "Index": "140.1",
+        "YearlyChange": "10.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Lewisham",
+        "AreaCode": "E09000023",
+        "AveragePrice": "438354",
+        "Index": "128.8",
+        "YearlyChange": "2.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Lichfield",
+        "AreaCode": "E07000194",
+        "AveragePrice": "302143",
+        "Index": "144.5",
+        "YearlyChange": "9.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Lincoln",
+        "AreaCode": "E07000138",
+        "AveragePrice": "183157",
+        "Index": "142.5",
+        "YearlyChange": "4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Lincolnshire",
+        "AreaCode": "E10000019",
+        "AveragePrice": "226010",
+        "Index": "151.3",
+        "YearlyChange": "10.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Lisburn and Castlereagh",
+        "AreaCode": "N09000007",
+        "AveragePrice": "195049",
+        "Index": "145.3",
+        "YearlyChange": "7.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Liverpool",
+        "AreaCode": "E08000012",
+        "AveragePrice": "173665",
+        "Index": "155.2",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "London",
+        "AreaCode": "E12000007",
+        "AveragePrice": "534693",
+        "Index": "132.7",
+        "YearlyChange": "6.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Luton",
+        "AreaCode": "E06000032",
+        "AveragePrice": "271417",
+        "Index": "160.5",
+        "YearlyChange": "10.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Maidstone",
+        "AreaCode": "E07000110",
+        "AveragePrice": "325339",
+        "Index": "138.6",
+        "YearlyChange": "9.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Maldon",
+        "AreaCode": "E07000074",
+        "AveragePrice": "371877",
+        "Index": "146.8",
+        "YearlyChange": "8.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Malvern Hills",
+        "AreaCode": "E07000235",
+        "AveragePrice": "309010",
+        "Index": "143.1",
+        "YearlyChange": "5.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Manchester",
+        "AreaCode": "E08000003",
+        "AveragePrice": "244815",
+        "Index": "182",
+        "YearlyChange": "10.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Mansfield",
+        "AreaCode": "E07000174",
+        "AveragePrice": "177070",
+        "Index": "155.1",
+        "YearlyChange": "10.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Medway",
+        "AreaCode": "E06000035",
+        "AveragePrice": "289123",
+        "Index": "157",
+        "YearlyChange": "10.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Melton",
+        "AreaCode": "E07000133",
+        "AveragePrice": "256822",
+        "Index": "138",
+        "YearlyChange": "2.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Merseyside",
+        "AreaCode": "E11000002",
+        "AveragePrice": "186595",
+        "Index": "151.1",
+        "YearlyChange": "7.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Merthyr Tydfil",
+        "AreaCode": "W06000024",
+        "AveragePrice": "148610",
+        "Index": "164.3",
+        "YearlyChange": "16.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Merton",
+        "AreaCode": "E09000024",
+        "AveragePrice": "555004",
+        "Index": "130.8",
+        "YearlyChange": "4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Mid Devon",
+        "AreaCode": "E07000042",
+        "AveragePrice": "287604",
+        "Index": "143.1",
+        "YearlyChange": "13.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Mid Suffolk",
+        "AreaCode": "E07000203",
+        "AveragePrice": "304120",
+        "Index": "145",
+        "YearlyChange": "9.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Mid Sussex",
+        "AreaCode": "E07000228",
+        "AveragePrice": "413734",
+        "Index": "130.6",
+        "YearlyChange": "9.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Mid Ulster",
+        "AreaCode": "N09000009",
+        "AveragePrice": "162000",
+        "Index": "144.8",
+        "YearlyChange": "12.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Mid and East Antrim",
+        "AreaCode": "N09000008",
+        "AveragePrice": "153916",
+        "Index": "148.7",
+        "YearlyChange": "7.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Middlesbrough",
+        "AreaCode": "E06000002",
+        "AveragePrice": "136881",
+        "Index": "126.9",
+        "YearlyChange": "12"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Midlothian",
+        "AreaCode": "S12000019",
+        "AveragePrice": "220829",
+        "Index": "150.5",
+        "YearlyChange": "6.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Milton Keynes",
+        "AreaCode": "E06000042",
+        "AveragePrice": "300690",
+        "Index": "144.7",
+        "YearlyChange": "9.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Mole Valley",
+        "AreaCode": "E07000210",
+        "AveragePrice": "537903",
+        "Index": "125.9",
+        "YearlyChange": "5.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Monmouthshire",
+        "AreaCode": "W06000021",
+        "AveragePrice": "320020",
+        "Index": "152.9",
+        "YearlyChange": "10.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Moray",
+        "AreaCode": "S12000020",
+        "AveragePrice": "182991",
+        "Index": "133.4",
+        "YearlyChange": "13.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Na h-Eileanan Siar",
+        "AreaCode": "S12000013",
+        "AveragePrice": "140226",
+        "Index": "132.3",
+        "YearlyChange": "9.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Neath Port Talbot",
+        "AreaCode": "W06000012",
+        "AveragePrice": "161400",
+        "Index": "157.6",
+        "YearlyChange": "13.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "New Forest",
+        "AreaCode": "E07000091",
+        "AveragePrice": "411221",
+        "Index": "147.6",
+        "YearlyChange": "12.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Newark and Sherwood",
+        "AreaCode": "E07000175",
+        "AveragePrice": "216845",
+        "Index": "141.8",
+        "YearlyChange": "6.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Newcastle upon Tyne",
+        "AreaCode": "E08000021",
+        "AveragePrice": "180916",
+        "Index": "125.6",
+        "YearlyChange": "4.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Newcastle-under-Lyme",
+        "AreaCode": "E07000195",
+        "AveragePrice": "191281",
+        "Index": "149.3",
+        "YearlyChange": "13.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Newham",
+        "AreaCode": "E09000025",
+        "AveragePrice": "407394",
+        "Index": "146.5",
+        "YearlyChange": "5.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Newport",
+        "AreaCode": "W06000022",
+        "AveragePrice": "227147",
+        "Index": "163.4",
+        "YearlyChange": "13.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Newry Mourne and Down",
+        "AreaCode": "N09000010",
+        "AveragePrice": "181683",
+        "Index": "161.5",
+        "YearlyChange": "11.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Norfolk",
+        "AreaCode": "E10000020",
+        "AveragePrice": "275651",
+        "Index": "150.8",
+        "YearlyChange": "10.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Ayrshire",
+        "AreaCode": "S12000021",
+        "AveragePrice": "129690",
+        "Index": "132.5",
+        "YearlyChange": "14.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Devon",
+        "AreaCode": "E07000043",
+        "AveragePrice": "298854",
+        "Index": "144",
+        "YearlyChange": "9.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North East",
+        "AreaCode": "E12000001",
+        "AveragePrice": "156247",
+        "Index": "133.4",
+        "YearlyChange": "1.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North East Derbyshire",
+        "AreaCode": "E07000038",
+        "AveragePrice": "222046",
+        "Index": "146.5",
+        "YearlyChange": "8.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North East Lincolnshire",
+        "AreaCode": "E06000012",
+        "AveragePrice": "150692",
+        "Index": "140.3",
+        "YearlyChange": "8.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Hertfordshire",
+        "AreaCode": "E07000099",
+        "AveragePrice": "381220",
+        "Index": "142.4",
+        "YearlyChange": "7.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Kesteven",
+        "AreaCode": "E07000139",
+        "AveragePrice": "250610",
+        "Index": "150.2",
+        "YearlyChange": "9.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Lanarkshire",
+        "AreaCode": "S12000050",
+        "AveragePrice": "133041",
+        "Index": "149.3",
+        "YearlyChange": "10.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Lincolnshire",
+        "AreaCode": "E06000013",
+        "AveragePrice": "177092",
+        "Index": "146",
+        "YearlyChange": "6.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Norfolk",
+        "AreaCode": "E07000147",
+        "AveragePrice": "306361",
+        "Index": "154.2",
+        "YearlyChange": "8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Northamptonshire",
+        "AreaCode": "E06000061",
+        "AveragePrice": "258225",
+        "Index": "165.9",
+        "YearlyChange": "12.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Somerset",
+        "AreaCode": "E06000024",
+        "AveragePrice": "313759",
+        "Index": "147.4",
+        "YearlyChange": "10.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Tyneside",
+        "AreaCode": "E08000022",
+        "AveragePrice": "193279",
+        "Index": "134.9",
+        "YearlyChange": "7.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Warwickshire",
+        "AreaCode": "E07000218",
+        "AveragePrice": "244268",
+        "Index": "147",
+        "YearlyChange": "11.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North West",
+        "AreaCode": "E12000002",
+        "AveragePrice": "208918",
+        "Index": "153.6",
+        "YearlyChange": "3.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North West Leicestershire",
+        "AreaCode": "E07000134",
+        "AveragePrice": "250506",
+        "Index": "149.2",
+        "YearlyChange": "7.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "North Yorkshire",
+        "AreaCode": "E06000065",
+        "AveragePrice": "265026",
+        "Index": "137.5",
+        "YearlyChange": "8.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Northern Ireland",
+        "AreaCode": "N92000001",
+        "AveragePrice": "169296",
+        "Index": "152.6",
+        "YearlyChange": "9.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Northumberland",
+        "AreaCode": "E06000057",
+        "AveragePrice": "182855",
+        "Index": "128.8",
+        "YearlyChange": "2.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Norwich",
+        "AreaCode": "E07000148",
+        "AveragePrice": "244470",
+        "Index": "144.4",
+        "YearlyChange": "10.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Nottinghamshire",
+        "AreaCode": "E10000024",
+        "AveragePrice": "222190",
+        "Index": "153.9",
+        "YearlyChange": "9.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Nuneaton and Bedworth",
+        "AreaCode": "E07000219",
+        "AveragePrice": "212134",
+        "Index": "152.6",
+        "YearlyChange": "11.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Oadby and Wigston",
+        "AreaCode": "E07000135",
+        "AveragePrice": "258161",
+        "Index": "148.7",
+        "YearlyChange": "11.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Oldham",
+        "AreaCode": "E08000004",
+        "AveragePrice": "183072",
+        "Index": "166.2",
+        "YearlyChange": "9.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Orkney Islands",
+        "AreaCode": "S12000023",
+        "AveragePrice": "220899",
+        "Index": "181.3",
+        "YearlyChange": "34.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Outer London",
+        "AreaCode": "E13000002",
+        "AveragePrice": "478656",
+        "Index": "137.3",
+        "YearlyChange": "6.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Oxford",
+        "AreaCode": "E07000178",
+        "AveragePrice": "447076",
+        "Index": "127.1",
+        "YearlyChange": "2.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Oxfordshire",
+        "AreaCode": "E10000025",
+        "AveragePrice": "392781",
+        "Index": "130.4",
+        "YearlyChange": "6.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Pembrokeshire",
+        "AreaCode": "W06000009",
+        "AveragePrice": "235901",
+        "Index": "149.3",
+        "YearlyChange": "21"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Pendle",
+        "AreaCode": "E07000122",
+        "AveragePrice": "131764",
+        "Index": "154.3",
+        "YearlyChange": "4.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Perth and Kinross",
+        "AreaCode": "S12000048",
+        "AveragePrice": "232365",
+        "Index": "137.9",
+        "YearlyChange": "10.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Portsmouth",
+        "AreaCode": "E06000044",
+        "AveragePrice": "248162",
+        "Index": "145.6",
+        "YearlyChange": "8.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Powys",
+        "AreaCode": "W06000023",
+        "AveragePrice": "234269",
+        "Index": "146.1",
+        "YearlyChange": "15.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Preston",
+        "AreaCode": "E07000123",
+        "AveragePrice": "151772",
+        "Index": "126.3",
+        "YearlyChange": "7.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Reading",
+        "AreaCode": "E06000038",
+        "AveragePrice": "334075",
+        "Index": "134.7",
+        "YearlyChange": "10.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Redbridge",
+        "AreaCode": "E09000026",
+        "AveragePrice": "467623",
+        "Index": "143.9",
+        "YearlyChange": "3.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Redcar and Cleveland",
+        "AreaCode": "E06000003",
+        "AveragePrice": "154248",
+        "Index": "132.3",
+        "YearlyChange": "9.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Redditch",
+        "AreaCode": "E07000236",
+        "AveragePrice": "253316",
+        "Index": "155.9",
+        "YearlyChange": "9.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Reigate and Banstead",
+        "AreaCode": "E07000211",
+        "AveragePrice": "453338",
+        "Index": "131.3",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Renfrewshire",
+        "AreaCode": "S12000038",
+        "AveragePrice": "153621",
+        "Index": "145.5",
+        "YearlyChange": "8.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Rhondda Cynon Taf",
+        "AreaCode": "W06000016",
+        "AveragePrice": "153977",
+        "Index": "164.6",
+        "YearlyChange": "10.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Ribble Valley",
+        "AreaCode": "E07000124",
+        "AveragePrice": "246739",
+        "Index": "123.1",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Richmond upon Thames",
+        "AreaCode": "E09000027",
+        "AveragePrice": "745592",
+        "Index": "125.7",
+        "YearlyChange": "9.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Rochdale",
+        "AreaCode": "E08000005",
+        "AveragePrice": "182884",
+        "Index": "162.5",
+        "YearlyChange": "9.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Rochford",
+        "AreaCode": "E07000075",
+        "AveragePrice": "371139",
+        "Index": "146.1",
+        "YearlyChange": "5.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Rossendale",
+        "AreaCode": "E07000125",
+        "AveragePrice": "181948",
+        "Index": "158.3",
+        "YearlyChange": "4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Rother",
+        "AreaCode": "E07000064",
+        "AveragePrice": "368490",
+        "Index": "158.6",
+        "YearlyChange": "15.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Rotherham",
+        "AreaCode": "E08000018",
+        "AveragePrice": "178090",
+        "Index": "153.2",
+        "YearlyChange": "7.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Rugby",
+        "AreaCode": "E07000220",
+        "AveragePrice": "283184",
+        "Index": "155.7",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Runnymede",
+        "AreaCode": "E07000212",
+        "AveragePrice": "484204",
+        "Index": "139.5",
+        "YearlyChange": "8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Rushcliffe",
+        "AreaCode": "E07000176",
+        "AveragePrice": "333415",
+        "Index": "148.7",
+        "YearlyChange": "10"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Rushmoor",
+        "AreaCode": "E07000092",
+        "AveragePrice": "324537",
+        "Index": "139.7",
+        "YearlyChange": "10.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Rutland",
+        "AreaCode": "E06000017",
+        "AveragePrice": "362439",
+        "Index": "144.6",
+        "YearlyChange": "5.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Salford",
+        "AreaCode": "E08000006",
+        "AveragePrice": "227213",
+        "Index": "186",
+        "YearlyChange": "12.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Sandwell",
+        "AreaCode": "E08000028",
+        "AveragePrice": "193465",
+        "Index": "167.7",
+        "YearlyChange": "11.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Scotland",
+        "AreaCode": "S92000003",
+        "AveragePrice": "188214",
+        "Index": "139.5",
+        "YearlyChange": "9.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Scottish Borders",
+        "AreaCode": "S12000026",
+        "AveragePrice": "198026",
+        "Index": "138",
+        "YearlyChange": "11.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Sefton",
+        "AreaCode": "E08000014",
+        "AveragePrice": "203073",
+        "Index": "147.3",
+        "YearlyChange": "7.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Sevenoaks",
+        "AreaCode": "E07000111",
+        "AveragePrice": "498888",
+        "Index": "142.9",
+        "YearlyChange": "8.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Sheffield",
+        "AreaCode": "E08000019",
+        "AveragePrice": "204322",
+        "Index": "145.3",
+        "YearlyChange": "8.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Shetland Islands",
+        "AreaCode": "S12000027",
+        "AveragePrice": "210999",
+        "Index": "158.1",
+        "YearlyChange": "12.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Shropshire",
+        "AreaCode": "E06000051",
+        "AveragePrice": "258439",
+        "Index": "140",
+        "YearlyChange": "8.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Slough",
+        "AreaCode": "E06000039",
+        "AveragePrice": "329244",
+        "Index": "144",
+        "YearlyChange": "6.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Solihull",
+        "AreaCode": "E08000029",
+        "AveragePrice": "343461",
+        "Index": "148.9",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Somerset",
+        "AreaCode": "E06000066",
+        "AveragePrice": "286858",
+        "Index": "148.3",
+        "YearlyChange": "12.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Ayrshire",
+        "AreaCode": "S12000028",
+        "AveragePrice": "171566",
+        "Index": "132.8",
+        "YearlyChange": "15.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Cambridgeshire",
+        "AreaCode": "E07000012",
+        "AveragePrice": "414504",
+        "Index": "133.5",
+        "YearlyChange": "7.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Derbyshire",
+        "AreaCode": "E07000039",
+        "AveragePrice": "229543",
+        "Index": "137.2",
+        "YearlyChange": "8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South East",
+        "AreaCode": "E12000008",
+        "AveragePrice": "377753",
+        "Index": "142.6",
+        "YearlyChange": "7.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Gloucestershire",
+        "AreaCode": "E06000025",
+        "AveragePrice": "333224",
+        "Index": "153.9",
+        "YearlyChange": "12.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Hams",
+        "AreaCode": "E07000044",
+        "AveragePrice": "392659",
+        "Index": "138.4",
+        "YearlyChange": "13"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Holland",
+        "AreaCode": "E07000140",
+        "AveragePrice": "232448",
+        "Index": "153",
+        "YearlyChange": "12.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Kesteven",
+        "AreaCode": "E07000141",
+        "AveragePrice": "261982",
+        "Index": "155.3",
+        "YearlyChange": "11"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Lanarkshire",
+        "AreaCode": "S12000029",
+        "AveragePrice": "163235",
+        "Index": "151.4",
+        "YearlyChange": "14.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Norfolk",
+        "AreaCode": "E07000149",
+        "AveragePrice": "311111",
+        "Index": "149.4",
+        "YearlyChange": "8.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Oxfordshire",
+        "AreaCode": "E07000179",
+        "AveragePrice": "480359",
+        "Index": "144.4",
+        "YearlyChange": "8.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Ribble",
+        "AreaCode": "E07000126",
+        "AveragePrice": "204429",
+        "Index": "135.7",
+        "YearlyChange": "10"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Staffordshire",
+        "AreaCode": "E07000196",
+        "AveragePrice": "283853",
+        "Index": "147.6",
+        "YearlyChange": "7.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Tyneside",
+        "AreaCode": "E08000023",
+        "AveragePrice": "155293",
+        "Index": "131.9",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South West",
+        "AreaCode": "E12000009",
+        "AveragePrice": "310595",
+        "Index": "145.9",
+        "YearlyChange": "6.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "South Yorkshire",
+        "AreaCode": "E11000003",
+        "AveragePrice": "181808",
+        "Index": "148.8",
+        "YearlyChange": "9.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Southampton",
+        "AreaCode": "E06000045",
+        "AveragePrice": "240335",
+        "Index": "138.1",
+        "YearlyChange": "9.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Southend-on-Sea",
+        "AreaCode": "E06000033",
+        "AveragePrice": "332340",
+        "Index": "158.5",
+        "YearlyChange": "8.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Southwark",
+        "AreaCode": "E09000028",
+        "AveragePrice": "502326",
+        "Index": "112.3",
+        "YearlyChange": "3.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Spelthorne",
+        "AreaCode": "E07000213",
+        "AveragePrice": "400325",
+        "Index": "131.1",
+        "YearlyChange": "6.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "St Albans",
+        "AreaCode": "E07000240",
+        "AveragePrice": "564793",
+        "Index": "129.6",
+        "YearlyChange": "6.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "St Helens",
+        "AreaCode": "E08000013",
+        "AveragePrice": "179399",
+        "Index": "162",
+        "YearlyChange": "14.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Stafford",
+        "AreaCode": "E07000197",
+        "AveragePrice": "250226",
+        "Index": "140.1",
+        "YearlyChange": "9.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Staffordshire",
+        "AreaCode": "E10000028",
+        "AveragePrice": "234242",
+        "Index": "145.7",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Staffordshire Moorlands",
+        "AreaCode": "E07000198",
+        "AveragePrice": "217080",
+        "Index": "146",
+        "YearlyChange": "6.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Stevenage",
+        "AreaCode": "E07000243",
+        "AveragePrice": "328646",
+        "Index": "153.5",
+        "YearlyChange": "9.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Stirling",
+        "AreaCode": "S12000030",
+        "AveragePrice": "233742",
+        "Index": "146.1",
+        "YearlyChange": "6.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Stockport",
+        "AreaCode": "E08000007",
+        "AveragePrice": "284053",
+        "Index": "159.6",
+        "YearlyChange": "10"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Stockton-on-Tees",
+        "AreaCode": "E06000004",
+        "AveragePrice": "157430",
+        "Index": "126.8",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Stoke-on-Trent",
+        "AreaCode": "E06000021",
+        "AveragePrice": "136225",
+        "Index": "148.7",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Stratford-on-Avon",
+        "AreaCode": "E07000221",
+        "AveragePrice": "355116",
+        "Index": "125.9",
+        "YearlyChange": "6.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Stroud",
+        "AreaCode": "E07000082",
+        "AveragePrice": "319078",
+        "Index": "144.5",
+        "YearlyChange": "9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Suffolk",
+        "AreaCode": "E10000029",
+        "AveragePrice": "287918",
+        "Index": "147.2",
+        "YearlyChange": "10.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Sunderland",
+        "AreaCode": "E08000024",
+        "AveragePrice": "139031",
+        "Index": "131.1",
+        "YearlyChange": "6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Surrey",
+        "AreaCode": "E10000030",
+        "AveragePrice": "500524",
+        "Index": "132",
+        "YearlyChange": "7.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Surrey Heath",
+        "AreaCode": "E07000214",
+        "AveragePrice": "450486",
+        "Index": "133.5",
+        "YearlyChange": "10.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Sutton",
+        "AreaCode": "E09000029",
+        "AveragePrice": "435821",
+        "Index": "141.7",
+        "YearlyChange": "9.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Swale",
+        "AreaCode": "E07000113",
+        "AveragePrice": "289201",
+        "Index": "154.8",
+        "YearlyChange": "9.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Swansea",
+        "AreaCode": "W06000011",
+        "AveragePrice": "193423",
+        "Index": "147.7",
+        "YearlyChange": "10"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Swindon",
+        "AreaCode": "E06000030",
+        "AveragePrice": "253301",
+        "Index": "148.7",
+        "YearlyChange": "11.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Tameside",
+        "AreaCode": "E08000008",
+        "AveragePrice": "198309",
+        "Index": "168.8",
+        "YearlyChange": "11.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Tamworth",
+        "AreaCode": "E07000199",
+        "AveragePrice": "221402",
+        "Index": "153.7",
+        "YearlyChange": "11.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Tandridge",
+        "AreaCode": "E07000215",
+        "AveragePrice": "521281",
+        "Index": "140.4",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Teignbridge",
+        "AreaCode": "E07000045",
+        "AveragePrice": "306733",
+        "Index": "143.6",
+        "YearlyChange": "12"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Telford and Wrekin",
+        "AreaCode": "E06000020",
+        "AveragePrice": "213342",
+        "Index": "149.4",
+        "YearlyChange": "8.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Tendring",
+        "AreaCode": "E07000076",
+        "AveragePrice": "259682",
+        "Index": "155.7",
+        "YearlyChange": "10.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Test Valley",
+        "AreaCode": "E07000093",
+        "AveragePrice": "387806",
+        "Index": "144.3",
+        "YearlyChange": "11.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Tewkesbury",
+        "AreaCode": "E07000083",
+        "AveragePrice": "318815",
+        "Index": "142.3",
+        "YearlyChange": "5.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Thanet",
+        "AreaCode": "E07000114",
+        "AveragePrice": "306239",
+        "Index": "176.3",
+        "YearlyChange": "14.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Three Rivers",
+        "AreaCode": "E07000102",
+        "AveragePrice": "567920",
+        "Index": "137.3",
+        "YearlyChange": "7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Thurrock",
+        "AreaCode": "E06000034",
+        "AveragePrice": "311992",
+        "Index": "157.1",
+        "YearlyChange": "10.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Tonbridge and Malling",
+        "AreaCode": "E07000115",
+        "AveragePrice": "418556",
+        "Index": "146",
+        "YearlyChange": "9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Torbay",
+        "AreaCode": "E06000027",
+        "AveragePrice": "251337",
+        "Index": "151.4",
+        "YearlyChange": "11.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Torfaen",
+        "AreaCode": "W06000020",
+        "AveragePrice": "187508",
+        "Index": "160.1",
+        "YearlyChange": "11.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Torridge",
+        "AreaCode": "E07000046",
+        "AveragePrice": "289769",
+        "Index": "144.8",
+        "YearlyChange": "11.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Tower Hamlets",
+        "AreaCode": "E09000030",
+        "AveragePrice": "487971",
+        "Index": "119.8",
+        "YearlyChange": "-1.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Trafford",
+        "AreaCode": "E08000009",
+        "AveragePrice": "358304",
+        "Index": "168.7",
+        "YearlyChange": "11.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Tunbridge Wells",
+        "AreaCode": "E07000116",
+        "AveragePrice": "439327",
+        "Index": "140.7",
+        "YearlyChange": "6.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Tyne and Wear",
+        "AreaCode": "E11000007",
+        "AveragePrice": "165367",
+        "Index": "130.2",
+        "YearlyChange": "6.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "United Kingdom",
+        "AreaCode": "K02000001",
+        "AveragePrice": "280206",
+        "Index": "147",
+        "YearlyChange": "6.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Uttlesford",
+        "AreaCode": "E07000077",
+        "AveragePrice": "447870",
+        "Index": "138.4",
+        "YearlyChange": "7.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Vale of Glamorgan",
+        "AreaCode": "W06000014",
+        "AveragePrice": "284206",
+        "Index": "152.6",
+        "YearlyChange": "14.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Vale of White Horse",
+        "AreaCode": "E07000180",
+        "AveragePrice": "388640",
+        "Index": "125.2",
+        "YearlyChange": "7.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wakefield",
+        "AreaCode": "E08000036",
+        "AveragePrice": "189716",
+        "Index": "151.3",
+        "YearlyChange": "8.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wales",
+        "AreaCode": "W92000004",
+        "AveragePrice": "211518",
+        "Index": "155.4",
+        "YearlyChange": "8.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Walsall",
+        "AreaCode": "E08000030",
+        "AveragePrice": "203696",
+        "Index": "152.9",
+        "YearlyChange": "7.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Waltham Forest",
+        "AreaCode": "E09000031",
+        "AveragePrice": "478026",
+        "Index": "141.1",
+        "YearlyChange": "3.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wandsworth",
+        "AreaCode": "E09000032",
+        "AveragePrice": "637816",
+        "Index": "115.2",
+        "YearlyChange": "10.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Warrington",
+        "AreaCode": "E06000007",
+        "AveragePrice": "245808",
+        "Index": "156.5",
+        "YearlyChange": "11.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Warwick",
+        "AreaCode": "E07000222",
+        "AveragePrice": "343463",
+        "Index": "138.1",
+        "YearlyChange": "6.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Warwickshire",
+        "AreaCode": "E10000031",
+        "AveragePrice": "292076",
+        "Index": "142.8",
+        "YearlyChange": "8.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Watford",
+        "AreaCode": "E07000103",
+        "AveragePrice": "402757",
+        "Index": "147.4",
+        "YearlyChange": "5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Waverley",
+        "AreaCode": "E07000216",
+        "AveragePrice": "519425",
+        "Index": "131.7",
+        "YearlyChange": "9.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wealden",
+        "AreaCode": "E07000065",
+        "AveragePrice": "398562",
+        "Index": "145.3",
+        "YearlyChange": "12.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Welwyn Hatfield",
+        "AreaCode": "E07000241",
+        "AveragePrice": "440591",
+        "Index": "143.4",
+        "YearlyChange": "6.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Berkshire",
+        "AreaCode": "E06000037",
+        "AveragePrice": "395525",
+        "Index": "134.2",
+        "YearlyChange": "10.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Devon",
+        "AreaCode": "E07000047",
+        "AveragePrice": "294417",
+        "Index": "137.6",
+        "YearlyChange": "8.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Dunbartonshire",
+        "AreaCode": "S12000039",
+        "AveragePrice": "132763",
+        "Index": "141.5",
+        "YearlyChange": "11.7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Lancashire",
+        "AreaCode": "E07000127",
+        "AveragePrice": "211709",
+        "Index": "135.7",
+        "YearlyChange": "4.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Lindsey",
+        "AreaCode": "E07000142",
+        "AveragePrice": "212805",
+        "Index": "150.1",
+        "YearlyChange": "7.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Lothian",
+        "AreaCode": "S12000040",
+        "AveragePrice": "202973",
+        "Index": "153",
+        "YearlyChange": "13.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Midlands",
+        "AreaCode": "E11000005",
+        "AveragePrice": "226240",
+        "Index": "156.8",
+        "YearlyChange": "7.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Midlands Region",
+        "AreaCode": "E12000005",
+        "AveragePrice": "241262",
+        "Index": "152",
+        "YearlyChange": "4.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Northamptonshire",
+        "AreaCode": "E06000062",
+        "AveragePrice": "285536",
+        "Index": "149.7",
+        "YearlyChange": "11.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Oxfordshire",
+        "AreaCode": "E07000181",
+        "AveragePrice": "348047",
+        "Index": "124.6",
+        "YearlyChange": "9.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Suffolk",
+        "AreaCode": "E07000245",
+        "AveragePrice": "296635",
+        "Index": "142.8",
+        "YearlyChange": "9.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Sussex",
+        "AreaCode": "E10000032",
+        "AveragePrice": "370258",
+        "Index": "137.7",
+        "YearlyChange": "8.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "West Yorkshire",
+        "AreaCode": "E11000006",
+        "AveragePrice": "194606",
+        "Index": "146.3",
+        "YearlyChange": "6.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Westmorland and Furness",
+        "AreaCode": "E06000064",
+        "AveragePrice": "216375",
+        "Index": "134.7",
+        "YearlyChange": "7.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wigan",
+        "AreaCode": "E08000010",
+        "AveragePrice": "177720",
+        "Index": "155.2",
+        "YearlyChange": "11.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wiltshire",
+        "AreaCode": "E06000054",
+        "AveragePrice": "318302",
+        "Index": "141.2",
+        "YearlyChange": "9.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Winchester",
+        "AreaCode": "E07000094",
+        "AveragePrice": "466100",
+        "Index": "129.7",
+        "YearlyChange": "9.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Windsor and Maidenhead",
+        "AreaCode": "E06000040",
+        "AveragePrice": "553899",
+        "Index": "132",
+        "YearlyChange": "11.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wirral",
+        "AreaCode": "E08000015",
+        "AveragePrice": "198961",
+        "Index": "143.3",
+        "YearlyChange": "5.6"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Woking",
+        "AreaCode": "E07000217",
+        "AveragePrice": "460613",
+        "Index": "127.8",
+        "YearlyChange": "8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wokingham",
+        "AreaCode": "E06000041",
+        "AveragePrice": "458560",
+        "Index": "132",
+        "YearlyChange": "7"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wolverhampton",
+        "AreaCode": "E08000031",
+        "AveragePrice": "193710",
+        "Index": "158.6",
+        "YearlyChange": "11.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Worcester",
+        "AreaCode": "E07000237",
+        "AveragePrice": "251695",
+        "Index": "143.8",
+        "YearlyChange": "10.1"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Worcestershire",
+        "AreaCode": "E10000034",
+        "AveragePrice": "284829",
+        "Index": "146.9",
+        "YearlyChange": "8.9"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Worthing",
+        "AreaCode": "E07000229",
+        "AveragePrice": "346371",
+        "Index": "154.1",
+        "YearlyChange": "9.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wrexham",
+        "AreaCode": "W06000006",
+        "AveragePrice": "199812",
+        "Index": "145.9",
+        "YearlyChange": "13.3"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wychavon",
+        "AreaCode": "E07000238",
+        "AveragePrice": "330142",
+        "Index": "144.5",
+        "YearlyChange": "10.4"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wyre",
+        "AreaCode": "E07000128",
+        "AveragePrice": "187965",
+        "Index": "134.1",
+        "YearlyChange": "9.2"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Wyre Forest",
+        "AreaCode": "E07000239",
+        "AveragePrice": "233557",
+        "Index": "148.8",
+        "YearlyChange": "9.8"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "York",
+        "AreaCode": "E06000014",
+        "AveragePrice": "311212",
+        "Index": "145.7",
+        "YearlyChange": "7.5"
+    },
+    {
+        "Date": "1/6/2022",
+        "RegionName": "Yorkshire and The Humber",
+        "AreaCode": "E12000003",
+        "AveragePrice": "202858",
+        "Index": "149",
+        "YearlyChange": "3.7"
+    }
+]

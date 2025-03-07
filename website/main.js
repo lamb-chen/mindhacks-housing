@@ -22,6 +22,7 @@ map.on('load', async function () {
     let countyData = await (await fetch('/county.json')).json();
     let schoolData = await (await fetch('/schools.json')).json();
     let homeOwnershipData = await (await fetch('/homeownership.json')).json();
+    let priceChangeData = await (await fetch('/pricechange.json')).json();
 
     const key = 'LAD13NM';
 
@@ -129,25 +130,28 @@ map.on('load', async function () {
             const schoolEntry = schoolData.find(school => school.localAuthority === countyName);
             const homeownershipEntry = homeOwnershipData.find(e => e["Area code"] === countyId);
 
+            const priceChangeDataEntry = priceChangeData.find(e => e["AreaCode"] === countyId);
             let rentToOwnershipRatio = 0;
             if (homeownershipEntry) {
                 const totalOwned = homeownershipEntry["Owned: Owns outright (number)"] + homeownershipEntry["Owned: Owns with a mortgage or loan or shared ownership (number)"];
                 const totalRented = homeownershipEntry["Rented: Social rented (number)"] + homeownershipEntry["Private rented or lives rent free (number)"];
                 rentToOwnershipRatio = totalRented / totalOwned;
             }
-            rentToOwnershipRatio = rentToOwnershipRatio.toFixed(2);
+            rentToOwnershipRatio = rentToOwnershipRatio;
+
             if (latestCountyData) {
                 document.getElementById('county-name').innerText = properties[key];
                 document.getElementById('county-year').innerText = `Year: ${latestCountyData.year}`;
-                if (schoolEntry) document.getElementById('school-text').innerText = `Admissions: ${schoolEntry.admissionNumbers}, Offers: ${schoolEntry.totalOffers} \n School Capacity: ${schoolEntry.usedCapacityPercent}%`;
-                if (homeownershipEntry) document.getElementById('homeownership-text').innerText = `Home Ownership to Renting Ratio: ${rentToOwnershipRatio * 100}%`;
+                if (schoolEntry) document.getElementById('school-text').innerText = `School Capacity: ${schoolEntry.usedCapacityPercent}%`;
+                if (homeownershipEntry) document.getElementById('homeownership-text').innerText = `Home Ownership to Renting Ratio: ${(rentToOwnershipRatio * 100).toFixed(2)}%`;
+                if (priceChangeDataEntry) document.getElementById('pricechange-text').innerText = `House Price Change: ${priceChangeDataEntry["YearlyChange"]}%`;
                 updateChart(latestCountyData);
             } else {
                 document.getElementById('county-name').innerText = properties[key];
                 document.getElementById('county-year').innerText = 'No data available';
-                if (schoolEntry) document.getElementById('school-text').innerText = 
-                    `Admissions: ${schoolEntry.admissionNumbers}, Offers: ${schoolEntry.totalOffers} \n School Capacity: ${schoolEntry.usedCapacityPercent}%`;
-                if (homeownershipEntry) document.getElementById('homeownership-text').innerText = `Home Ownership: ${rentToOwnershipRatio * 100}%`;
+                if (schoolEntry) document.getElementById('school-text').innerText = `School Capacity: ${schoolEntry.usedCapacityPercent}%`;
+                if (homeownershipEntry) document.getElementById('homeownership-text').innerText = `Home Ownership: ${(rentToOwnershipRatio * 100).toFixed(2)}%`;
+                if (priceChangeDataEntry) document.getElementById('pricechange-text').innerText = `House Price Change: ${priceChangeDataEntry["YearlyChange"]}%`;
                 updateChart(null);
             }
         }
