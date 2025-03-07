@@ -88,3 +88,19 @@ h1 {
   padding: 10px;
   border: 1px solid #ccc;
 }
+
+#applications-chart {
+  margin-top: 1rem;
+}
+
+/* Ipad and smaller */
+@media (max-width: 1024px) {
+  #map {
+    width: 100%;
+  }
+
+  #info-panel {
+    margin-top: 2rem;
+    width: 100%;
+  }
+}

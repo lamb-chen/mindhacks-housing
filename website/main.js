@@ -126,8 +126,6 @@ map.on('load', async function () {
         priceChange: priceChangeData.reduce((sum, entry) => parseFloat(sum) + parseFloat(entry["YearlyChange"]), 0) / priceChangeData.length
     };
 
-    console.log(priceChangeData)
-
     document.getElementById('school-ave').innerText = `${averages.schoolCapacity.toFixed(1)}%`;
     document.getElementById('homeownership-ave').innerText = `${(averages.rentToOwnershipRatio * 100).toFixed(1)}%`;
     document.getElementById('pricechange-ave').innerText = `${averages.priceChange.toFixed(1)}%`;
