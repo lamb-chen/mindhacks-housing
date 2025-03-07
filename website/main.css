@@ -46,6 +46,7 @@ h1 {
   width: 60%;
   height: 80vh;
   display: inline-block;
+  border: 1px solid #ccc;
 }
 
 #info-panel {
