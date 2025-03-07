@@ -23,6 +23,20 @@ map.on('load', async function () {
     let eerData = await (await fetch('/eer.json')).json();
     let countyData = await (await fetch('/county.json')).json();
 
+    for (let i = 0; i < ladData.features.length; i++) {
+        const countyId = ladData.features[i].properties['LAD13CD'];
+        const currCountyData = countyData.filter(({county}) => county === countyId).at(-1);
+        let ratio = 0.5;
+
+        if (currCountyData) ratio = currCountyData.appliedMajor / currCountyData.acceptedMajor;
+        const g = Math.round(75 * ratio);
+        const r = Math.round(200 * (1 - ratio));
+
+        ladData.features[i].properties['countyInfo'] = countyData.filter(({county}) => county === countyId).at(-1);
+        if (currCountyData) ladData.features[i].properties['color'] = `rgb(${r}, ${g}, 0)`;
+        else ladData.features[i].properties['color'] = '#d3d3d3';
+    }
+
     const key = 'LAD13NM';
 
     map.addSource('uk-counties', {
@@ -35,7 +49,7 @@ map.on('load', async function () {
         'type': 'fill',
         'source': 'uk-counties',
         'paint': {
-            'fill-color': '#627BC1',
+            'fill-color': ['get', 'color'],
             'fill-opacity': 0.5,
             'fill-outline-color': '#004080'
         }
@@ -49,7 +63,7 @@ map.on('load', async function () {
         if (e.features.length > 0) {
             let properties = e.features[0].properties;
             let countyId = properties['LAD13CD'];
-            let countyInfo = countyData.filter(({county}) => county === countyId);
+            let countyInfo = countyData.filter(({county}) => county === countyId).at(-1);
             document.getElementById('county-name').innerText = properties[key];
             document.getElementById('county-info').innerText = JSON.stringify(countyInfo, null, 2);
         }
