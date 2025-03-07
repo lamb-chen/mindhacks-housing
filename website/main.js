@@ -124,7 +124,7 @@ map.on('load', async function () {
         rentToOwnershipRatio: homeOwnershipData.reduce((sum, entry) => {
             const totalOwned = entry["Owned: Owns outright (number)"] + entry["Owned: Owns with a mortgage or loan or shared ownership (number)"];
             const totalRented = entry["Rented: Social rented (number)"] + entry["Private rented or lives rent free (number)"];
-            return sum + (totalRented / totalOwned);
+            return sum + (totalOwned / (totalRented + totalOwned));
         }, 0) / homeOwnershipData.length,
         priceChange: priceChangeData.reduce((sum, entry) => parseFloat(sum) + parseFloat(entry["YearlyChange"]), 0) / priceChangeData.length
     };
@@ -150,13 +150,13 @@ map.on('load', async function () {
             const homeownershipEntry = homeOwnershipData.find(e => e["Area code"] === countyId);
 
             const priceChangeDataEntry = priceChangeData.find(e => e["AreaCode"] === countyId);
-            let rentToOwnershipRatio = 0;
+            let ownershipPercentage = 0;
             if (homeownershipEntry) {
                 const totalOwned = homeownershipEntry["Owned: Owns outright (number)"] + homeownershipEntry["Owned: Owns with a mortgage or loan or shared ownership (number)"];
                 const totalRented = homeownershipEntry["Rented: Social rented (number)"] + homeownershipEntry["Private rented or lives rent free (number)"];
-                rentToOwnershipRatio = totalRented / totalOwned;
+                ownershipPercentage =  totalOwned / (totalRented + totalOwned)
             }
-            rentToOwnershipRatio = rentToOwnershipRatio;
+            ownershipPercentage = ownershipPercentage;
 
             document.getElementById('county-name').innerText = properties[key];
             if (latestCountyData) document.getElementById('county-year').innerText = `Year: ${latestCountyData.year}`;
@@ -170,8 +170,8 @@ map.on('load', async function () {
             else document.getElementById('school-text').innerText = '';
 
             if (homeownershipEntry) {
-                document.getElementById('homeownership-text').innerText = `Home Ownership to Renting Ratio: ${(rentToOwnershipRatio * 100).toFixed(1)}%`;
-                let diff = averages.rentToOwnershipRatio - rentToOwnershipRatio;
+                document.getElementById('homeownership-text').innerText = `Home Ownership: ${(ownershipPercentage * 100).toFixed(1)}%`;
+                let diff = averages.rentToOwnershipRatio - ownershipPercentage;
                 let color = diff > 0 ? 'red' : 'green';
                 document.getElementById('homeownership-text').style.color = color;
             }
