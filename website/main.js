@@ -21,6 +21,7 @@ map.on('style.load', function() {
 map.on('load', async function () {
     let ladData = await (await fetch('/lad.json')).json();
     let eerData = await (await fetch('/eer.json')).json();
+    let countyData = await (await fetch('/county.json')).json();
 
     const key = 'LAD13NM';
 
@@ -46,9 +47,11 @@ map.on('load', async function () {
     // Handle click event to display county information
     map.on('click', 'uk-counties-layer', (e) => {
         if (e.features.length > 0) {
-            var properties = e.features[0].properties;
+            let properties = e.features[0].properties;
+            let countyId = properties['LAD13CD'];
+            let countyInfo = countyData.filter(({county}) => county === countyId);
             document.getElementById('county-name').innerText = properties[key];
-            document.getElementById('county-info').innerText = JSON.stringify(properties, null, 2);
+            document.getElementById('county-info').innerText = JSON.stringify(countyInfo, null, 2);
         }
     });
 });

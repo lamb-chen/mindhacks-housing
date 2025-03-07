@@ -9,16 +9,16 @@ def csv_to_json(csv_file):
     # Initialize an empty list to hold the results
     results = []
 
-    # Group by the year and aggregate the counts
+    # Group by both the year and county
     key = 'DCLG Planning Decisions Major and Minor Developments by category.'
-    for year, group in df.groupby(df['DateCode'].str.split('-').str[0].str.split(' ').str[2]):
+    df['Year'] = df['DateCode'].str.split('-').str[0].str.split(' ').str[2]  # Extract year
+    for (year, county_name), group in df.groupby(['Year', 'FeatureCode']):
         applied_major = group[group[key] == 'All-->Major']['Value'].sum()
         applied_minor = group[group[key] == 'All-->Minor']['Value'].sum()
         accepted_major = group[group[key] == 'Major-->Granted']['Value'].sum()
         accepted_minor = group[group[key] == 'Minor-->Granted']['Value'].sum()
-        county_name = group['FeatureCode'].iloc[0]
 
-        # Create a dictionary for each year
+        # Create a dictionary for each year and county
         year_data = {
             'county': str(county_name),
             'year': int(year),

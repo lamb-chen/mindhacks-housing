@@ -9,6 +9,14 @@
 body {
     font-family: "Roboto", sans-serif;
     margin: 0 10%;
+    background-color: white; /* Set a background color */
+    background-image: radial-gradient(circle, black 7%, transparent 7%);
+    background-size: 20px 20px; /* Size of the dots */
+}
+
+p {
+    background: white;
+    padding: 0.25rem 0.5rem;
 }
 
 h1 {
